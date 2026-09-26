@@ -1,0 +1,3432 @@
+[
+  {
+    "word": "acerbic",
+    "pos": "adj",
+    "crossreferences": [
+      "acerbity",
+      "-ic"
+    ],
+    "etymology": "1865, originally, and usually, figurative: \"sour, harsh, severe\" (of speech, manners, etc.), from Latin acerbus \"harsh to the taste, sharp, bitter, sour\" (see acerbity) + -ic.",
+    "years": [
+      1865
+    ],
+    "clues": [
+      "Sour, harsh, severe.",
+      "First attested: 1865.",
+      "Harsh to the taste, sharp, bitter, sour.",
+      "Rooted in Latin.",
+      "7 letters, adjective"
+    ],
+    "roots": {
+      "attested": "1865",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "acerbus",
+          "gloss": "harsh to the taste, sharp, bitter, sour"
+        }
+      ],
+      "parts": [
+        {
+          "lang": "Latin",
+          "form": "acerbus",
+          "gloss": "harsh to the taste, sharp, bitter, sour"
+        },
+        {
+          "form": "-ic"
+        }
+      ]
+    }
+  },
+  {
+    "word": "acetone",
+    "pos": "n",
+    "crossreferences": [
+      "acetic",
+      "-one"
+    ],
+    "etymology": "colorless volatile liquid, 1839, literally \"a derivative of acetic acid,\" from Latin acetum \"vinegar\" (see acetic) + Greek-based chemical suffix -one, which owes its use in chemistry to this word.",
+    "years": [
+      1839
+    ],
+    "clues": [
+      "A derivative of acetic acid.",
+      "First attested: 1839.",
+      "Vinegar.",
+      "Etymologically related to: acetic.",
+      "7 letters, noun"
+    ],
+    "roots": {
+      "attested": "1839",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "acetum",
+          "gloss": "vinegar"
+        }
+      ],
+      "parts": [
+        {
+          "lang": "Latin",
+          "form": "acetum",
+          "gloss": "vinegar"
+        },
+        {
+          "form": "-one"
+        }
+      ]
+    }
+  },
+  {
+    "word": "acute",
+    "pos": "adj",
+    "crossreferences": [
+      "acuity"
+    ],
+    "etymology": "late 14c., originally of fevers and diseases, \"coming and going quickly\" (opposed to a chronic), from Latin acutus \"sharp, pointed,\" figuratively \"shrill, penetrating; intelligent, cunning,\" past participle of acuere \"sharpen\" (see acuity). Meaning \"sharp, irritating\" is from early 15c. Meaning \"intense\" is from 1727. Related: Acutely; acuteness.",
+    "years": [
+      1727
+    ],
+    "clues": [
+      "Coming and going quickly.",
+      "First attested: late 14c..",
+      "Sharp, pointed.",
+      "Rooted in Latin.",
+      "5 letters, adjective"
+    ],
+    "roots": {
+      "attested": "late 14c.",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "acuere",
+          "gloss": "sharpen"
+        },
+        {
+          "lang": "Latin",
+          "form": "acutus",
+          "gloss": "sharp, pointed"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "advanced",
+    "pos": "adj",
+    "crossreferences": [
+      "advance"
+    ],
+    "etymology": "1530s, \"far ahead in the course of actions or ideas,\" past participle adjective from advance (v.). Of studies, from 1790. Military use is from 1795. In late 19c. used especially in reference to views on women's equality.",
+    "years": [
+      1530,
+      1790,
+      1795
+    ],
+    "clues": [
+      "Far ahead in the course of actions or ideas.",
+      "First attested: 1530s.",
+      "Its root is the verb meaning to move or put something forward.",
+      "Built from a shorter, related English word.",
+      "8 letters, adjective"
+    ],
+    "roots": {
+      "attested": "1530s",
+      "lineage": [],
+      "parts": []
+    }
+  },
+  {
+    "word": "advert",
+    "pos": "v",
+    "crossreferences": [
+      "advertise"
+    ],
+    "etymology": "mid-15c., averten \"to turn (something) aside,\" from Middle French avertir (12c.), from Late Latin advertere (see advertise). The -d- added 16c. on the Latin model. Related: Adverted; adverting.",
+    "years": [],
+    "clues": [
+      "To turn (something) aside.",
+      "First attested: mid-15c..",
+      "Its earliest English form lacked the letter added later to resemble its Latin source.",
+      "Rooted in Middle French.",
+      "6 letters, verb"
+    ],
+    "roots": {
+      "attested": "mid-15c.",
+      "lineage": [
+        {
+          "lang": "Late Latin",
+          "form": "advertere"
+        },
+        {
+          "lang": "Middle French",
+          "form": "avertir"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "afoul",
+    "pos": "adv",
+    "crossreferences": [
+      "a-",
+      "foul"
+    ],
+    "etymology": "1809, originally nautical, \"in collision or entanglement,\" from a- (1) + foul (adj.). From 1833 in general sense of \"in violent or hostile conflict,\" mainly in phrases such as run afoul of.",
+    "years": [
+      1809,
+      1833
+    ],
+    "clues": [
+      "In collision or entanglement.",
+      "First attested: 1809.",
+      "In violent or hostile conflict.",
+      "Built from a shorter, related English word.",
+      "5 letters, adverb"
+    ],
+    "roots": {
+      "attested": "1809",
+      "lineage": [],
+      "parts": [
+        {
+          "form": "a-"
+        },
+        {
+          "form": "foul"
+        }
+      ]
+    }
+  },
+  {
+    "word": "aikido",
+    "pos": "n",
+    "crossreferences": [],
+    "etymology": "Japanese art of self-defense, 1936, literally \"way of adapting the spirit,\" from Japanese ai \"together\" (from au \"to harmonize\") + ki \"spirit\" + do \"way, art,\" from Chinese tao \"way.\"",
+    "years": [
+      1936
+    ],
+    "clues": [
+      "An art of self-defense.",
+      "First attested: 1936.",
+      "Together.",
+      "Rooted in Japanese.",
+      "6 letters, noun"
+    ],
+    "roots": {
+      "attested": "1936",
+      "lineage": [
+        {
+          "lang": "Japanese",
+          "gloss": "way of adapting the spirit"
+        }
+      ],
+      "parts": [
+        {
+          "lang": "Japanese",
+          "form": "ai",
+          "gloss": "together"
+        },
+        {
+          "lang": "Japanese",
+          "form": "ki",
+          "gloss": "spirit"
+        },
+        {
+          "lang": "Japanese",
+          "form": "do",
+          "gloss": "way, art"
+        }
+      ]
+    }
+  },
+  {
+    "word": "amount",
+    "pos": "v",
+    "crossreferences": [
+      "ad-",
+      "mount"
+    ],
+    "etymology": "late 13c., \"to go up, rise, mount (a horse),\" from Old French amonter, from a mont \"upward,\" literally \"to the mountain,\" from Latin ad- \"to\" (see ad-) + montem (nominative mons) \"mountain\" (see mount (n.1)). Meaning \"to rise in number or quality (so as to reach)\" is from c. 1300. Related: Amounted; amounting.",
+    "years": [
+      1300
+    ],
+    "clues": [
+      "To go up, rise, mount (a horse).",
+      "First attested: late 13c..",
+      "Upward.",
+      "Rooted in Old French.",
+      "6 letters, verb"
+    ],
+    "roots": {
+      "attested": "late 13c.",
+      "lineage": [
+        {
+          "lang": "Old French",
+          "form": "a mont",
+          "gloss": "upward"
+        },
+        {
+          "lang": "Old French",
+          "form": "amonter"
+        }
+      ],
+      "parts": [
+        {
+          "lang": "Latin",
+          "form": "ad-",
+          "gloss": "to"
+        },
+        {
+          "lang": "Latin",
+          "form": "montem",
+          "gloss": "mountain"
+        }
+      ]
+    }
+  },
+  {
+    "word": "amphora",
+    "pos": "n",
+    "crossreferences": [
+      "amphi-",
+      "infer"
+    ],
+    "etymology": "early 14c., \"two-handled vessel for holding wine, oil, etc.,\" from Latin amphora from Greek amphoreus \"an amphora, jar, urn,\" contraction of amphiphoreus, literally \"two-handled,\" from amphi- \"on both sides\" (see amphi-) + phoreus \"bearer,\" related to pherein \"to bear\" (see infer). Also a liquid measure in the ancient world, in Greece equal to 9 gallons, in Rome to 6 gallons, 7 pints.",
+    "years": [],
+    "clues": [
+      "Two-handled vessel for holding wine, oil, etc.",
+      "First attested: early 14c..",
+      "Two-handled.",
+      "Etymologically related to: amphi-, infer.",
+      "7 letters, noun"
+    ],
+    "roots": {
+      "attested": "early 14c.",
+      "lineage": [
+        {
+          "lang": "Greek",
+          "form": "amphiphoreus",
+          "gloss": "two-handled"
+        },
+        {
+          "lang": "Greek",
+          "form": "amphoreus",
+          "gloss": "an amphora, jar, urn"
+        },
+        {
+          "lang": "Latin",
+          "form": "amphora"
+        }
+      ],
+      "parts": [
+        {
+          "lang": "Greek",
+          "form": "amphi-",
+          "gloss": "on both sides"
+        },
+        {
+          "lang": "Greek",
+          "form": "phoreus",
+          "gloss": "bearer"
+        }
+      ]
+    }
+  },
+  {
+    "word": "amputation",
+    "pos": "n",
+    "crossreferences": [
+      "ambi-",
+      "pave"
+    ],
+    "etymology": "1610s, \"a cutting off of tree branches, a pruning,\" also \"operation of cutting off a limb, etc., of a body,\" from Middle French amputation or directly from Latin amputationem (nominative amputatio), noun of action from past participle stem of amputare \"cut off, lop off; cut around, to prune,\" from am(bi)- \"about\" (see ambi-) + putare \"to prune, trim\" (see pave).",
+    "years": [
+      1610
+    ],
+    "clues": [
+      "A cutting off of tree branches, a pruning.",
+      "First attested: 1610s.",
+      "Operation of cutting off a limb, etc., of a body.",
+      "Etymologically related to: ambi-, pave.",
+      "10 letters, noun"
+    ],
+    "roots": {
+      "attested": "1610s",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "amputare",
+          "gloss": "cut off, lop off; cut around, to prune"
+        },
+        {
+          "lang": "Latin",
+          "form": "amputationem"
+        },
+        {
+          "lang": "Middle French",
+          "form": "amputation"
+        }
+      ],
+      "parts": [
+        {
+          "lang": "Latin",
+          "form": "am(bi)-",
+          "gloss": "about"
+        },
+        {
+          "lang": "Latin",
+          "form": "putare",
+          "gloss": "to prune, trim"
+        }
+      ]
+    }
+  },
+  {
+    "word": "annual",
+    "pos": "n",
+    "crossreferences": [
+      "annual"
+    ],
+    "etymology": "c. 1400, originally \"service commemorating the anniversary of a person's death,\" from annual (adj.). By 1824 as short for annual plant.",
+    "years": [
+      1400,
+      1824
+    ],
+    "clues": [
+      "Service commemorating the anniversary of a person's death.",
+      "First attested: c. 1400.",
+      "Its noun form originally referred to something held once each year in memory of the dead.",
+      "Built from a shorter, related English word.",
+      "6 letters, noun"
+    ],
+    "roots": {
+      "attested": "c. 1400",
+      "lineage": [],
+      "parts": []
+    }
+  },
+  {
+    "word": "antibody",
+    "pos": "n",
+    "crossreferences": [
+      "anti-",
+      "body"
+    ],
+    "etymology": "\"substance developed in blood as an antitoxin,\" 1901, a hybrid formed from anti- \"against\" + body. Probably a translation of German Antikörper, condensed from a phrase such as anti-toxischer Körper \"anti-toxic body\" (1891).",
+    "years": [
+      1891,
+      1901
+    ],
+    "clues": [
+      "Substance developed in blood as an antitoxin.",
+      "First attested: 1901.",
+      "Against.",
+      "A hybrid formed from a prefix and an ordinary English word.",
+      "8 letters, noun"
+    ],
+    "roots": {
+      "attested": "1901",
+      "lineage": [
+        {
+          "lang": "German",
+          "form": "Antikörper",
+          "uncertain": true
+        }
+      ],
+      "parts": [
+        {
+          "form": "anti-",
+          "gloss": "against"
+        },
+        {
+          "form": "body"
+        }
+      ]
+    }
+  },
+  {
+    "word": "auspex",
+    "pos": "n",
+    "crossreferences": [
+      "aviary",
+      "scope"
+    ],
+    "etymology": "1590s, \"one who observes flights of birds for the purpose of taking omens,\" from Latin auspex \"interpreter of omens given by birds,\" from PIE *awi-spek- \"observer of birds,\" from *awi- \"bird\" (see aviary) + *spek- \"to see\" (see scope (n.1)). Compare Greek oionos \"bird of prey,\" also \"bird of omen, omen,\" and ornis \"bird,\" which also could mean \"omen.\"",
+    "years": [
+      1590
+    ],
+    "clues": [
+      "One who observes flights of birds for the purpose of taking omens.",
+      "First attested: 1590s.",
+      "Interpreter of omens given by birds.",
+      "Etymologically related to: aviary, scope.",
+      "6 letters, noun"
+    ],
+    "roots": {
+      "attested": "1590s",
+      "lineage": [
+        {
+          "lang": "PIE",
+          "form": "*awi-spek-",
+          "gloss": "observer of birds"
+        },
+        {
+          "lang": "Latin",
+          "form": "auspex",
+          "gloss": "interpreter of omens given by birds"
+        }
+      ],
+      "parts": [
+        {
+          "lang": "PIE",
+          "form": "*awi-",
+          "gloss": "bird"
+        },
+        {
+          "lang": "PIE",
+          "form": "*spek-",
+          "gloss": "to see"
+        }
+      ]
+    }
+  },
+  {
+    "word": "backfire",
+    "pos": "n",
+    "crossreferences": [
+      "back",
+      "fire"
+    ],
+    "etymology": "1839, American English, originally \"a fire deliberately lit ahead of an advancing prairie fire to deprive it of fuel,\" from back (adj.) + fire (n.). As a verb in this sense, recorded from 1886. The meaning \"premature ignition in an internal-combustion engine\" is first recorded 1897. Of schemes, plans, etc., \"to affect the initiator rather than the intended object\" it is attested from 1912, a figurative use from the accidental back-firing of firearms.",
+    "years": [
+      1839,
+      1886,
+      1897,
+      1912
+    ],
+    "clues": [
+      "A fire deliberately lit ahead of an advancing prairie fire to deprive it of fuel.",
+      "First attested: 1839.",
+      "Premature ignition in an internal-combustion engine.",
+      "Formed by joining two ordinary English words.",
+      "8 letters, noun"
+    ],
+    "roots": {
+      "attested": "1839",
+      "lineage": [],
+      "parts": [
+        {
+          "form": "back"
+        },
+        {
+          "form": "fire"
+        }
+      ]
+    }
+  },
+  {
+    "word": "backlog",
+    "pos": "n",
+    "crossreferences": [
+      "back",
+      "log"
+    ],
+    "etymology": "1680s, \"large log placed at the back of a fire,\" from back (adj.) + log (n.1). Figurative sense of \"something stored up for later use\" is first attested 1883, but this and the meaning \"arrears of unfulfilled orders\" (1932) might be from, or suggested by, log (n.2).",
+    "years": [
+      1680,
+      1883,
+      1932
+    ],
+    "clues": [
+      "Large log placed at the back of a fire.",
+      "First attested: 1680s.",
+      "Something stored up for later use.",
+      "Formed by joining two ordinary English words.",
+      "7 letters, noun"
+    ],
+    "roots": {
+      "attested": "1680s",
+      "lineage": [],
+      "parts": [
+        {
+          "form": "back"
+        },
+        {
+          "form": "log"
+        }
+      ]
+    }
+  },
+  {
+    "word": "bangs",
+    "pos": "n",
+    "crossreferences": [
+      "bang"
+    ],
+    "etymology": "\"hair cut straight across the forehead,\" 1878 (singular), American English, attested from 1870 of horses (bang-tail), perhaps from notion of abruptness (as in bang off \"immediately, without delay,\" though this expression is attested only from 1886). See bang.",
+    "years": [
+      1870,
+      1878,
+      1886
+    ],
+    "clues": [
+      "Hair cut straight across the forehead.",
+      "First attested: 1878.",
+      "First used of horses' tails cut straight across.",
+      "Built from a shorter, related English word.",
+      "5 letters, noun"
+    ],
+    "roots": {
+      "attested": "1878",
+      "lineage": [],
+      "parts": []
+    }
+  },
+  {
+    "word": "banzai",
+    "pos": "interj",
+    "crossreferences": [],
+    "etymology": "Japanese war-cry, 1893, literally \"(may you live) ten thousand years,\" originally a greeting addressed to the emperor, from ban \"ten thousand\" + sai \"year.\"",
+    "years": [
+      1893
+    ],
+    "clues": [
+      "A war-cry, originally a greeting addressed to the emperor.",
+      "First attested: 1893.",
+      "Ten thousand.",
+      "Rooted in Japanese.",
+      "6 letters, interjection"
+    ],
+    "roots": {
+      "attested": "1893",
+      "lineage": [
+        {
+          "lang": "Japanese",
+          "gloss": "(may you live) ten thousand years"
+        }
+      ],
+      "parts": [
+        {
+          "lang": "Japanese",
+          "form": "ban",
+          "gloss": "ten thousand"
+        },
+        {
+          "lang": "Japanese",
+          "form": "sai",
+          "gloss": "year"
+        }
+      ]
+    }
+  },
+  {
+    "word": "barbecue",
+    "pos": "n",
+    "crossreferences": [],
+    "etymology": "1650s, \"framework for grilling meat, fish, etc.,\" from American Spanish barbacoa, from Arawakan (Haiti) barbakoa \"framework of sticks,\" the raised wooden structure the Indians used to either sleep on or cure meat. Sense of \"outdoor meal of roasted meat or fish as a social entertainment\" is from 1733; modern popular noun sense of \"grill for cooking over an open fire\" is from 1931.",
+    "years": [
+      1650,
+      1733,
+      1931
+    ],
+    "clues": [
+      "Framework for grilling meat, fish, etc.",
+      "First attested: 1650s.",
+      "Framework of sticks.",
+      "Rooted in American Spanish.",
+      "8 letters, noun"
+    ],
+    "roots": {
+      "attested": "1650s",
+      "lineage": [
+        {
+          "lang": "Arawakan",
+          "form": "barbakoa",
+          "gloss": "framework of sticks"
+        },
+        {
+          "lang": "American Spanish",
+          "form": "barbacoa"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "barrio",
+    "pos": "n",
+    "crossreferences": [],
+    "etymology": "1841, \"ward of a Spanish or Spanish-speaking city,\" sometimes also used of rural settlements, from Spanish barrio \"district, suburb,\" from Arabic barriya \"open country\" (fem.), from barr \"outside\" (of the city). Main modern sense of \"Spanish-speaking district in a U.S. city\" is 1939; original reference is to Spanish Harlem in New York City.",
+    "years": [
+      1841,
+      1939
+    ],
+    "clues": [
+      "Ward of a Spanish or Spanish-speaking city.",
+      "First attested: 1841.",
+      "District, suburb.",
+      "Rooted in Spanish.",
+      "6 letters, noun"
+    ],
+    "roots": {
+      "attested": "1841",
+      "lineage": [
+        {
+          "lang": "Arabic",
+          "form": "barr",
+          "gloss": "outside"
+        },
+        {
+          "lang": "Arabic",
+          "form": "barriya",
+          "gloss": "open country"
+        },
+        {
+          "lang": "Spanish",
+          "form": "barrio",
+          "gloss": "district, suburb"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "batter",
+    "pos": "v",
+    "crossreferences": [],
+    "etymology": "\"strike repeatedly, beat violently and rapidly,\" early 14c., from Old French batre \"to beat, strike\" (11c., Modern French battre \"to beat, to strike\"), from Latin battuere \"to beat, strike,\" an old word in Latin, but almost certainly borrowed from Gaulish, from PIE root *bhau- \"to strike\" (source also of Welsh bathu \"beat;\" Old English beadu \"battle,\" beatan \"to beat,\" bytl \"hammer, mallet\"). Began to be widely used 1962 in reference to domestic abuse. Related: Battered; battering. Battering-ram is an ancient weapon (Latin aries), but the word attested only from 1610s.",
+    "years": [
+      1610,
+      1962
+    ],
+    "clues": [
+      "Strike repeatedly, beat violently and rapidly.",
+      "First attested: early 14c..",
+      "To beat, strike.",
+      "Rooted in Old French.",
+      "6 letters, verb"
+    ],
+    "roots": {
+      "attested": "early 14c.",
+      "lineage": [
+        {
+          "lang": "PIE",
+          "form": "*bhau-",
+          "gloss": "to strike"
+        },
+        {
+          "lang": "Gaulish"
+        },
+        {
+          "lang": "Latin",
+          "form": "battuere",
+          "gloss": "to beat, strike"
+        },
+        {
+          "lang": "Old French",
+          "form": "batre",
+          "gloss": "to beat, strike"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "bellyful",
+    "pos": "n",
+    "crossreferences": [
+      "belly",
+      "-ful"
+    ],
+    "etymology": "figuratively, \"enough and more,\" 1530s, from belly (n.) + -ful. Older than the literal sense (1570s).",
+    "years": [
+      1530,
+      1570
+    ],
+    "clues": [
+      "Enough and more.",
+      "First attested: 1530s.",
+      "Its construction combines a body-part word with a suffix meaning 'full of.'",
+      "Built from a shorter, related English word.",
+      "8 letters, noun"
+    ],
+    "roots": {
+      "attested": "1530s",
+      "lineage": [],
+      "parts": [
+        {
+          "form": "belly"
+        },
+        {
+          "form": "-ful"
+        }
+      ]
+    }
+  },
+  {
+    "word": "blear",
+    "pos": "v",
+    "crossreferences": [
+      "blear"
+    ],
+    "etymology": "\"to dim (of vision); to have watery or rheumy eyes,\" early 14c., of uncertain origin, possibly from an Old English *blerian, from the same source as blear (adj.). Related: Bleared; blearing.",
+    "years": [],
+    "clues": [
+      "To dim (of vision); to have watery or rheumy eyes.",
+      "First attested: early 14c..",
+      "Of uncertain origin, possibly from an unrecorded Old English verb.",
+      "Possibly rooted in Old English.",
+      "5 letters, verb"
+    ],
+    "roots": {
+      "attested": "early 14c.",
+      "lineage": [
+        {
+          "lang": "Old English",
+          "form": "*blerian",
+          "uncertain": true
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "bless",
+    "pos": "v",
+    "crossreferences": [
+      "blood",
+      "immolate",
+      "bliss",
+      "Blessed",
+      "blessing"
+    ],
+    "etymology": "Old English bletsian, bledsian, Northumbrian bloedsian \"to consecrate, make holy, give thanks,\" from Proto-Germanic *blodison \"hallow with blood, mark with blood,\" from *blotham \"blood\" (see blood (n.)). Originally a blood sprinkling on pagan altars. This word was chosen in Old English bibles to translate Latin benedicere and Greek eulogein, both of which have a ground sense of \"to speak well of, to praise,\" but were used in Scripture to translate Hebrew brk \"to bend (the knee), worship, praise, invoke blessings.\" L.R. Palmer (\"The Latin Language\") writes, \"There is nothing surprising in the semantic development of a word denoting originally a special ritual act into the more generalized meanings to 'sacrifice,' 'worship,' 'bless,'\" and compares Latin immolare (see immolate). Meaning shifted in late Old English toward \"pronounce or make happy,\" by resemblance to unrelated bliss. No cognates in other languages. Related: Blessed; blessing.",
+    "years": [],
+    "clues": [
+      "To consecrate, make holy, give thanks.",
+      "No firm early date survives in the record.",
+      "Hallow with blood, mark with blood.",
+      "Etymologically related to: blood.",
+      "5 letters, verb"
+    ],
+    "roots": {
+      "attested": null,
+      "lineage": [
+        {
+          "lang": "Proto-Germanic",
+          "form": "*blotham",
+          "gloss": "blood"
+        },
+        {
+          "lang": "Proto-Germanic",
+          "form": "*blodison",
+          "gloss": "hallow with blood, mark with blood"
+        },
+        {
+          "lang": "Old English",
+          "form": "bletsian",
+          "gloss": "to consecrate, make holy, give thanks"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "blunt",
+    "pos": "n",
+    "crossreferences": [
+      "blunt"
+    ],
+    "etymology": "street slang for \"marijuana and tobacco cigar\" (easier to pass around, easier to disguise, and the stimulant in the tobacco enhances the high from the pot) surfaced c. 1993, but is said to have originated among Jamaicans in New York City in the early 1980s; from Phillies Blunt brand cigars; see blunt (adj.), which has been used of certain cigars since 19c.",
+    "years": [
+      1980,
+      1993
+    ],
+    "clues": [
+      "Marijuana and tobacco cigar.",
+      "First attested: c. 1993.",
+      "Takes its name from a cigar brand.",
+      "The brand name comes from an older English adjective.",
+      "5 letters, noun"
+    ],
+    "roots": {
+      "attested": "c. 1993",
+      "lineage": [],
+      "parts": []
+    }
+  },
+  {
+    "word": "boggle",
+    "pos": "v",
+    "crossreferences": [
+      "bug",
+      "bogey"
+    ],
+    "etymology": "1590s, \"to start with fright (as a startled horse does), shy, take alarm,\" from Middle English bugge \"specter\" (among other things, supposed to scare horses at night); see bug (n.); also compare bogey (n.1). The meaning \"to raise scruples, hesitate\" is from 1630s. As a noun from 1650s. Related: Boggled; boggling; boggler (from c. 1600 as \"one who hesitates\").",
+    "years": [
+      1590,
+      1600,
+      1630,
+      1650
+    ],
+    "clues": [
+      "To start with fright (as a startled horse does), shy, take alarm.",
+      "First attested: 1590s.",
+      "Specter.",
+      "Etymologically related to: bug, bogey.",
+      "6 letters, verb"
+    ],
+    "roots": {
+      "attested": "1590s",
+      "lineage": [
+        {
+          "lang": "Middle English",
+          "form": "bugge",
+          "gloss": "specter"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "bombard",
+    "pos": "n",
+    "crossreferences": [
+      "bomb"
+    ],
+    "etymology": "early 15c., \"catapult, military engine for throwing large stones,\" from Middle French bombarde \"mortar, catapult\" (14c.), from bombe (see bomb (n.)). The same word, from the same source, was used in English and French late 14c. in reference to the bass shawm, a bassoon-like musical instrument, preserving the \"buzzing\" sense in the Latin.",
+    "years": [],
+    "clues": [
+      "Catapult, military engine for throwing large stones.",
+      "First attested: early 15c..",
+      "Mortar, catapult.",
+      "Rooted in Middle French.",
+      "7 letters, noun"
+    ],
+    "roots": {
+      "attested": "early 15c.",
+      "lineage": [
+        {
+          "lang": "Middle French",
+          "form": "bombe"
+        },
+        {
+          "lang": "Middle French",
+          "form": "bombarde",
+          "gloss": "mortar, catapult"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "braid",
+    "pos": "v",
+    "crossreferences": [],
+    "etymology": "\"to plait, knit, weave, twist together,\" c. 1200, breidan, from Old English bregdan \"to move quickly, pull, shake, swing, throw (in wrestling), draw (a sword); bend, weave, knit, join together; change color, vary; scheme, feign, pretend\" (class III strong verb, past tense brægd, past participle brogden), from Proto-Germanic *bregthan \"make sudden jerky movements from side to side\" (compare Old Norse bregða \"to brandish, turn about, braid;\" Old Saxon bregdan \"to weave;\" Dutch breien \"to knit;\" Old High German brettan \"to draw, weave, braid\"), from PIE root *bherek- \"to gleam, flash\" (compare Sanskrit bhrasate \"flames, blazes, shines\"). In English the verb survives only in the narrow definition of \"plait hair.\" Related: Braided; braiding.",
+    "years": [
+      1200
+    ],
+    "clues": [
+      "To plait, knit, weave, twist together.",
+      "First attested: c. 1200.",
+      "To move quickly, pull, shake, swing, throw (in wrestling), draw (a sword); bend, weave, knit, join together; change color, vary; scheme, feign, pretend.",
+      "Rooted in Old English.",
+      "5 letters, verb"
+    ],
+    "roots": {
+      "attested": "c. 1200",
+      "lineage": [
+        {
+          "lang": "PIE",
+          "form": "*bherek-",
+          "gloss": "to gleam, flash"
+        },
+        {
+          "lang": "Proto-Germanic",
+          "form": "*bregthan",
+          "gloss": "make sudden jerky movements from side to side"
+        },
+        {
+          "lang": "Old English",
+          "form": "bregdan",
+          "gloss": "to move quickly, pull, shake, swing"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "caddie",
+    "pos": "n",
+    "crossreferences": [
+      "cadet"
+    ],
+    "etymology": "1630s, Scottish form of French cadet (see cadet). Originally \"person who runs errands;\" meaning of \"golfer's assistant\" is 1851. A letter from Edinburgh c. 1730 describes the city's extensive and semi-organized \"Cawdys, a very useful Black-Guard, who attend ... publick Places to go at Errands; and though they are Wretches, that in Rags lye upon the Stairs and in the Streets at Night, yet are they often considerably trusted .... This Corps has a kind of Captain ... presiding over them, whom they call the Constable of the Cawdys.\"",
+    "years": [
+      1630,
+      1730,
+      1851
+    ],
+    "clues": [
+      "Person who runs errands.",
+      "First attested: 1630s.",
+      "Golfer's assistant.",
+      "Etymologically related to: cadet.",
+      "6 letters, noun"
+    ],
+    "roots": {
+      "attested": "1630s",
+      "lineage": [
+        {
+          "lang": "French",
+          "form": "cadet"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "calabash",
+    "pos": "n",
+    "crossreferences": [],
+    "etymology": "1590s, \"dried, hollowed gourd used as a drinking cup,\" from Spanish calabaza, possibly from Arabic qar'a yabisa \"dry gourd,\" from Persian kharabuz, used of various large melons; or from a pre-Roman Iberian *calapaccia.",
+    "years": [
+      1590
+    ],
+    "clues": [
+      "Dried, hollowed gourd used as a drinking cup.",
+      "First attested: 1590s.",
+      "Dry gourd.",
+      "Rooted in Spanish.",
+      "8 letters, noun"
+    ],
+    "roots": {
+      "attested": "1590s",
+      "lineage": [
+        {
+          "lang": "Persian",
+          "form": "kharabuz",
+          "uncertain": true
+        },
+        {
+          "lang": "Arabic",
+          "form": "qar'a yabisa",
+          "gloss": "dry gourd",
+          "uncertain": true
+        },
+        {
+          "lang": "Spanish",
+          "form": "calabaza"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "capital",
+    "pos": "adj",
+    "crossreferences": [
+      "capitulum"
+    ],
+    "etymology": "early 13c., \"of or pertaining to the head,\" from Old French capital, from Latin capitalis \"of the head,\" hence \"capital, chief, first,\" from caput (genitive capitis) \"head\" (see capitulum). Meaning \"main, principal, chief, dominant, most important\" is from early 15c. in English. Capital letter for an upper case one is attested from late 14c. The modern informal sense of \"excellent, first-rate\" is dated from 1762 in OED (as an exclamation of approval, OED's first example is 1875), perhaps from earlier use of the word in reference to ships, \"first-rate, powerful enough to be in the line of battle,\" attested from 1650s, fallen into disuse after 1918. \n\nA capital crime (1520s) is one that affects the life or \"head;\" capital had a sense of \"deadly, mortal\" from late 14c. in English, a sense also found in Latin. The felt connection between \"head\" and \"life, mortality\" also existed in Old English: as in heafodgilt \"deadly sin, capital offense,\" heafdes þolian \"to forfeit life.\" Capital punishment was in Blackstone (1765) and classical Latin capitis poena. Capital gain is recorded from 1921. Capital goods is recorded from 1899. Related: Capitally.",
+    "years": [
+      1520,
+      1650,
+      1762,
+      1765,
+      1875,
+      1899,
+      1918,
+      1921
+    ],
+    "clues": [
+      "Of or pertaining to the head.",
+      "First attested: early 13c..",
+      "Of the head.",
+      "Etymologically related to: capitulum.",
+      "7 letters, adjective"
+    ],
+    "roots": {
+      "attested": "early 13c.",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "caput",
+          "gloss": "head"
+        },
+        {
+          "lang": "Latin",
+          "form": "capitalis",
+          "gloss": "of the head"
+        },
+        {
+          "lang": "Old French",
+          "form": "capital"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "cardinal",
+    "pos": "n",
+    "crossreferences": [
+      "cardinal"
+    ],
+    "etymology": "early 12c., \"one of the ecclesiastical princes who constitute the sacred college\" (short for cardinalis ecclesiae Romanae or episcopus cardinalis), from Latin cardinalis \"principal, chief, essential\" (see cardinal (adj.)).\n\nEcclesiastical use began for the presbyters of the chief (cardinal) churches of Rome. The North American songbird (Cardinalis virginianus) is attested from 1670s, so named for its resemblance to the cardinals in their red robes.",
+    "years": [
+      1670
+    ],
+    "clues": [
+      "One of the ecclesiastical princes who constitute the sacred college.",
+      "First attested: early 12c..",
+      "Principal, chief, essential.",
+      "Rooted in Latin.",
+      "8 letters, noun"
+    ],
+    "roots": {
+      "attested": "early 12c.",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "cardinalis",
+          "gloss": "principal, chief, essential"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "carnival",
+    "pos": "n",
+    "crossreferences": [
+      "carnage",
+      "lever"
+    ],
+    "etymology": "1540s, \"time of merrymaking before Lent,\" from French carnaval, from Italian carnevale \"Shrove Tuesday,\" from older Italian forms such as Milanese *carnelevale, Old Pisan carnelevare \"to remove meat,\" literally \"raising flesh,\" from Latin caro \"flesh\" (see carnage) + levare \"lighten, raise, remove\" (see lever (n.)). Folk etymology is from Medieval Latin carne vale \" 'flesh, farewell!' \" Meaning \"a circus or fair\" is attested by 1931 in North America.",
+    "years": [
+      1540,
+      1931
+    ],
+    "clues": [
+      "Time of merrymaking before Lent.",
+      "First attested: 1540s.",
+      "Shrove Tuesday.",
+      "Etymologically related to: carnage, lever.",
+      "8 letters, noun"
+    ],
+    "roots": {
+      "attested": "1540s",
+      "lineage": [
+        {
+          "lang": "Old Pisan",
+          "form": "carnelevare",
+          "gloss": "to remove meat"
+        },
+        {
+          "lang": "Italian",
+          "form": "carnevale",
+          "gloss": "Shrove Tuesday"
+        },
+        {
+          "lang": "French",
+          "form": "carnaval"
+        }
+      ],
+      "parts": [
+        {
+          "lang": "Latin",
+          "form": "caro",
+          "gloss": "flesh"
+        },
+        {
+          "lang": "Latin",
+          "form": "levare",
+          "gloss": "lighten, raise, remove"
+        }
+      ]
+    }
+  },
+  {
+    "word": "catcall",
+    "pos": "n",
+    "crossreferences": [
+      "cat",
+      "call"
+    ],
+    "etymology": "1650s, a type of noisemaker (Johnson describes it as a \"squeaking instrument\") used to express dissatisfaction in play-houses, from cat (n.) + call (n.); presumably because it sounded like an angry cat. As a verb, attested from 1734.",
+    "years": [
+      1650,
+      1734
+    ],
+    "clues": [
+      "A type of noisemaker used to express dissatisfaction in play-houses.",
+      "First attested: 1650s.",
+      "Its name comes from the sound of an animal combined with an act of making a sound.",
+      "Formed by joining two ordinary English words.",
+      "7 letters, noun"
+    ],
+    "roots": {
+      "attested": "1650s",
+      "lineage": [],
+      "parts": [
+        {
+          "form": "cat"
+        },
+        {
+          "form": "call"
+        }
+      ]
+    }
+  },
+  {
+    "word": "catchword",
+    "pos": "n",
+    "crossreferences": [
+      "catch",
+      "word"
+    ],
+    "etymology": "1730, \"the first word of the following page inserted at the lower right-hand corner of each page of a book,\" from catch (v.) + word (n.); extended to \"word caught up and repeated\" (especially in the political sense) by 1795. The literal sense is extinct; the figurative sense thrives.",
+    "years": [
+      1730,
+      1795
+    ],
+    "clues": [
+      "The first word of the following page inserted at the lower right-hand corner of each page of a book.",
+      "First attested: 1730.",
+      "Later, a phrase caught up and repeated, especially in politics.",
+      "Formed by joining two ordinary English words.",
+      "9 letters, noun"
+    ],
+    "roots": {
+      "attested": "1730",
+      "lineage": [],
+      "parts": [
+        {
+          "form": "catch"
+        },
+        {
+          "form": "word"
+        }
+      ]
+    }
+  },
+  {
+    "word": "ceremonial",
+    "pos": "adj",
+    "crossreferences": [
+      "ceremony"
+    ],
+    "etymology": "c. 1400, \"belonging to (religious) ritual,\" also as a noun, \"a ceremonial practice,\" from Late Latin caerimonialis \"pertaining to ceremony,\" from caerimonia (see ceremony). Related: Ceremonially.",
+    "years": [
+      1400
+    ],
+    "clues": [
+      "Belonging to (religious) ritual.",
+      "First attested: c. 1400.",
+      "Also used as a noun for a ritual practice.",
+      "Etymologically related to: ceremony.",
+      "10 letters, adjective"
+    ],
+    "roots": {
+      "attested": "c. 1400",
+      "lineage": [
+        {
+          "lang": "Late Latin",
+          "form": "caerimonialis",
+          "gloss": "pertaining to ceremony"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "charm",
+    "pos": "v",
+    "crossreferences": [
+      "charm"
+    ],
+    "etymology": "c. 1300, \"to recite or cast a magic spell,\" from Old French charmer (13c.) \"to enchant, to fill (someone) with desire (for something); to protect, cure, treat; to maltreat, harm,\" from Late Latin carminare, from Latin carmen (see charm (n.)). In Old French used alike of magical and non-magical activity. In English, \"to win over by treating pleasingly, delight\" from mid-15c. Related: Charmed; charming. Charmed (short for I am charmed) as a conventional reply to a greeting or meeting is attested by 1825.",
+    "years": [
+      1300,
+      1825
+    ],
+    "clues": [
+      "To recite or cast a magic spell.",
+      "First attested: c. 1300.",
+      "To win over by treating pleasingly, delight.",
+      "Rooted in Old French.",
+      "5 letters, verb"
+    ],
+    "roots": {
+      "attested": "c. 1300",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "carmen"
+        },
+        {
+          "lang": "Late Latin",
+          "form": "carminare"
+        },
+        {
+          "lang": "Old French",
+          "form": "charmer",
+          "gloss": "to enchant"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "chief",
+    "pos": "n",
+    "crossreferences": [
+      "capitulum"
+    ],
+    "etymology": "c. 1300, \"head, leader, captain; the principal or most important part of anything;\" from Old French chief \"leader, ruler, head\" of something, \"capital city\" (10c., Modern French chef), from Vulgar Latin *capum, from Latin caput \"head,\" also \"leader, chief person; summit; capital city\" (see capitulum). Meaning \"head of a clan\" is from 1570s; later extended to American Indian tribes. Commander-in-chief attested from 1660s.",
+    "years": [
+      1300,
+      1570,
+      1660
+    ],
+    "clues": [
+      "Head, leader, captain; the principal or most important part of anything.",
+      "First attested: c. 1300.",
+      "Leader, ruler, head.",
+      "Etymologically related to: capitulum.",
+      "5 letters, noun"
+    ],
+    "roots": {
+      "attested": "c. 1300",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "caput",
+          "gloss": "head"
+        },
+        {
+          "lang": "Vulgar Latin",
+          "form": "*capum"
+        },
+        {
+          "lang": "Old French",
+          "form": "chief",
+          "gloss": "leader, ruler, head"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "chieftain",
+    "pos": "n",
+    "crossreferences": [
+      "capitulum"
+    ],
+    "etymology": "early 14c., cheftayne \"ruler, chief, head\" of something, from Anglo-French chiefteyn, Old French chevetain \"captain, chief, leader,\" from Late Latin capitaneus \"commander,\" from Latin capitis, genitive of caput \"head\" (see capitulum). According to \"Rob Roy\" (1818) a Highland chieftain was the head of a branch of a clan, a chief was the head of the whole name. Related: Chieftainship.",
+    "years": [
+      1818
+    ],
+    "clues": [
+      "Ruler, chief, head.",
+      "First attested: early 14c..",
+      "Captain, chief, leader.",
+      "Etymologically related to: capitulum.",
+      "9 letters, noun"
+    ],
+    "roots": {
+      "attested": "early 14c.",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "caput",
+          "gloss": "head"
+        },
+        {
+          "lang": "Late Latin",
+          "form": "capitaneus",
+          "gloss": "commander"
+        },
+        {
+          "lang": "Old French",
+          "form": "chevetain",
+          "gloss": "captain, chief, leader"
+        },
+        {
+          "lang": "Anglo-French",
+          "form": "chiefteyn"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "chignon",
+    "pos": "n",
+    "crossreferences": [
+      "chain"
+    ],
+    "etymology": "\"knot or coil of hair worn at the back of the neck,\" from French chignon \"nape of the neck,\" from Old French chaignon \"iron collar, shackles, noose\" (12c.), from Vulgar Latin *catenionem (nominative *catenio), from Latin catena \"chain, fetter, restraint\" (see chain (n.)). Popular 1780s, 1870s, 1940s. Form influenced in French by tignon \"coil of hair.\"",
+    "years": [
+      1780,
+      1870,
+      1940
+    ],
+    "clues": [
+      "Knot or coil of hair worn at the back of the neck.",
+      "No firm early date survives in the record.",
+      "Nape of the neck.",
+      "Etymologically related to: chain.",
+      "7 letters, noun"
+    ],
+    "roots": {
+      "attested": null,
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "catena",
+          "gloss": "chain, fetter, restraint"
+        },
+        {
+          "lang": "Vulgar Latin",
+          "form": "*catenionem"
+        },
+        {
+          "lang": "Old French",
+          "form": "chaignon",
+          "gloss": "iron collar, shackles, noose"
+        },
+        {
+          "lang": "French",
+          "form": "chignon",
+          "gloss": "nape of the neck"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "coppice",
+    "pos": "n",
+    "crossreferences": [
+      "coup"
+    ],
+    "etymology": "late 14c., \"small thicket of trees grown for cutting,\" from Old French copeiz, coupeiz \"a cut-over forest,\" from Vulgar Latin *colpaticium \"having been cut,\" ultimately from Latin colaphus \"a blow with the fist,\" from Greek kolaphos \"blow, cuff\" (see coup).",
+    "years": [],
+    "clues": [
+      "Small thicket of trees grown for cutting.",
+      "First attested: late 14c..",
+      "A cut-over forest.",
+      "Etymologically related to: coup.",
+      "7 letters, noun"
+    ],
+    "roots": {
+      "attested": "late 14c.",
+      "lineage": [
+        {
+          "lang": "Greek",
+          "form": "kolaphos",
+          "gloss": "blow, cuff"
+        },
+        {
+          "lang": "Latin",
+          "form": "colaphus",
+          "gloss": "a blow with the fist"
+        },
+        {
+          "lang": "Vulgar Latin",
+          "form": "*colpaticium",
+          "gloss": "having been cut"
+        },
+        {
+          "lang": "Old French",
+          "form": "copeiz",
+          "gloss": "a cut-over forest"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "crossroads",
+    "pos": "n",
+    "crossreferences": [
+      "crossroad"
+    ],
+    "etymology": "1795, in figurative sense of \"a turning point, a moment of decision;\" from crossroad. In U.S., used for \"a crossroads and little more; small, dull town\" by 1845.",
+    "years": [
+      1795,
+      1845
+    ],
+    "clues": [
+      "A turning point, a moment of decision.",
+      "First attested: 1795.",
+      "Derived directly from the singular noun for an intersection of paths.",
+      "Built from a shorter, related English word.",
+      "10 letters, noun"
+    ],
+    "roots": {
+      "attested": "1795",
+      "lineage": [],
+      "parts": []
+    }
+  },
+  {
+    "word": "dabble",
+    "pos": "v",
+    "crossreferences": [
+      "dab"
+    ],
+    "etymology": "1550s, probably a frequentative of dab. Original meaning was \"wet by splashing;\" modern figurative sense of \"do superficially\" first recorded 1620s. Related: Dabbled; dabbling. An Ellen Dablewife is in the Lancashire Inquests from 1336.",
+    "years": [
+      1336,
+      1550,
+      1620
+    ],
+    "clues": [
+      "Wet by splashing.",
+      "First attested: 1550s.",
+      "Do superficially.",
+      "Built from a shorter, related English word.",
+      "6 letters, verb"
+    ],
+    "roots": {
+      "attested": "1550s",
+      "lineage": [],
+      "parts": []
+    }
+  },
+  {
+    "word": "dainty",
+    "pos": "n",
+    "crossreferences": [
+      "dignity"
+    ],
+    "etymology": "c. 1300, \"excellence, elegance; a luxury,\" from Old French deintie (12c.) \"price, value,\" also \"delicacy, pleasure,\" from Latin dignitatem (nominative dignitas) \"greatness, rank, worthiness, worth, beauty,\" from dignus \"worthy\" (see dignity).",
+    "years": [
+      1300
+    ],
+    "clues": [
+      "Excellence, elegance; a luxury.",
+      "First attested: c. 1300.",
+      "Price, value.",
+      "Etymologically related to: dignity.",
+      "6 letters, noun"
+    ],
+    "roots": {
+      "attested": "c. 1300",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "dignus",
+          "gloss": "worthy"
+        },
+        {
+          "lang": "Latin",
+          "form": "dignitatem",
+          "gloss": "greatness, rank, worthiness, worth, beauty"
+        },
+        {
+          "lang": "Old French",
+          "form": "deintie",
+          "gloss": "price, value"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "deadwood",
+    "pos": "n",
+    "crossreferences": [
+      "dead",
+      "wood"
+    ],
+    "etymology": "1887 in figurative sense of \"useless person or thing,\" originally American English, from dead (adj.) + wood (n.). Dead wood in a forest is useful as firewood; perhaps the reference here is to the dried up parts of plants grown for commercial production of flowers or fruit.",
+    "years": [
+      1887
+    ],
+    "clues": [
+      "Useless person or thing.",
+      "First attested: 1887.",
+      "Its figurative meaning grew from a literal term for lifeless timber.",
+      "Formed by joining two ordinary English words.",
+      "8 letters, noun"
+    ],
+    "roots": {
+      "attested": "1887",
+      "lineage": [],
+      "parts": [
+        {
+          "form": "dead"
+        },
+        {
+          "form": "wood"
+        }
+      ]
+    }
+  },
+  {
+    "word": "debutant",
+    "pos": "n",
+    "crossreferences": [
+      "debut"
+    ],
+    "etymology": "1824, \"male performer or speaker making his first public appearance,\" from French, noun use of present participle of débuter \"to make the first strike\" (in billiards, etc.), from debut (see debut).",
+    "years": [
+      1824
+    ],
+    "clues": [
+      "Male performer or speaker making his first public appearance.",
+      "First attested: 1824.",
+      "To make the first strike.",
+      "Rooted in French.",
+      "8 letters, noun"
+    ],
+    "roots": {
+      "attested": "1824",
+      "lineage": [
+        {
+          "lang": "French",
+          "form": "débuter",
+          "gloss": "to make the first strike"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "debutante",
+    "pos": "n",
+    "crossreferences": [
+      "debutant"
+    ],
+    "etymology": "1801, \"female stage actress making her first public performance,\" from fem. of French debutant (q.v.). In reference to a young woman making her first appearance in society, from 1817.",
+    "years": [
+      1801,
+      1817
+    ],
+    "clues": [
+      "Female stage actress making her first public performance.",
+      "First attested: 1801.",
+      "Its feminine form comes from a French word for someone making a first public appearance.",
+      "Rooted in French.",
+      "9 letters, noun"
+    ],
+    "roots": {
+      "attested": "1801",
+      "lineage": [
+        {
+          "lang": "French",
+          "form": "debutant"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "delivery",
+    "pos": "n",
+    "crossreferences": [
+      "deliver"
+    ],
+    "etymology": "early 15c., \"action of handing over to another,\" from Anglo-French delivrée, noun use of fem. past participle of Old French délivrer (see deliver). Childbirth sense is attested from 1570s. Of speech, from 1580s. Of a blow, throw of a ball, etc., from 1702.",
+    "years": [
+      1570,
+      1580,
+      1702
+    ],
+    "clues": [
+      "Action of handing over to another.",
+      "First attested: early 15c..",
+      "Its earliest sense was about handing something over, long before its modern uses multiplied.",
+      "Rooted in Anglo-French.",
+      "8 letters, noun"
+    ],
+    "roots": {
+      "attested": "early 15c.",
+      "lineage": [
+        {
+          "lang": "Old French",
+          "form": "délivrer"
+        },
+        {
+          "lang": "Anglo-French",
+          "form": "delivrée"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "demanding",
+    "pos": "adj",
+    "crossreferences": [
+      "demand"
+    ],
+    "etymology": "early 15c., \"asking, questioning,\" present participle adjective from demand (v.). Meaning \"insistent\" is by late 19c. Related: Demandingly.",
+    "years": [],
+    "clues": [
+      "Asking, questioning.",
+      "First attested: early 15c..",
+      "Insistent.",
+      "Built from a shorter, related English word.",
+      "9 letters, adjective"
+    ],
+    "roots": {
+      "attested": "early 15c.",
+      "lineage": [],
+      "parts": []
+    }
+  },
+  {
+    "word": "detest",
+    "pos": "v",
+    "crossreferences": [
+      "de-",
+      "testament"
+    ],
+    "etymology": "early 15c., \"to curse, to call God to witness and abhor,\" from Middle French détester, from Latin detestari \"to curse, execrate, abominate, express abhorrence for,\" literally \"denounce with one's testimony,\" from de- \"from, down\" (see de-) + testari \"be a witness,\" from testis \"witness\" (see testament). Related: Detested; detesting.",
+    "years": [],
+    "clues": [
+      "To curse, to call God to witness and abhor.",
+      "First attested: early 15c..",
+      "To curse, execrate, abominate, express abhorrence for.",
+      "Etymologically related to: testament.",
+      "6 letters, verb"
+    ],
+    "roots": {
+      "attested": "early 15c.",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "detestari",
+          "gloss": "to curse, execrate, abominate, express abhorrence for"
+        },
+        {
+          "lang": "Middle French",
+          "form": "détester"
+        }
+      ],
+      "parts": [
+        {
+          "lang": "Latin",
+          "form": "de-",
+          "gloss": "from, down"
+        },
+        {
+          "lang": "Latin",
+          "form": "testari",
+          "gloss": "be a witness"
+        }
+      ]
+    }
+  },
+  {
+    "word": "domesticate",
+    "pos": "v",
+    "crossreferences": [
+      "domestic"
+    ],
+    "etymology": "1630s, of animals; 1741, of persons, \"to cause to be attached to home and family;\" from Medieval Latin domesticatus, past participle of domesticare \"to tame,\" literally \"to dwell in a house,\" from domesticus (see domestic). Related: Domesticated; domesticating.",
+    "years": [
+      1630,
+      1741
+    ],
+    "clues": [
+      "To cause to be attached to home and family.",
+      "First attested: 1630s.",
+      "To tame.",
+      "Rooted in Medieval Latin.",
+      "11 letters, verb"
+    ],
+    "roots": {
+      "attested": "1630s",
+      "lineage": [
+        {
+          "lang": "Medieval Latin",
+          "form": "domesticare",
+          "gloss": "to tame"
+        },
+        {
+          "lang": "Medieval Latin",
+          "form": "domesticatus"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "dormer",
+    "pos": "n",
+    "crossreferences": [
+      "dormant"
+    ],
+    "etymology": "1590s, originally \"window of a sleeping room,\" from Middle French dormeor \"sleeping room,\" from dormir \"to sleep\" (see dormant).",
+    "years": [
+      1590
+    ],
+    "clues": [
+      "Window of a sleeping room.",
+      "First attested: 1590s.",
+      "Sleeping room.",
+      "Etymologically related to: dormant.",
+      "6 letters, noun"
+    ],
+    "roots": {
+      "attested": "1590s",
+      "lineage": [
+        {
+          "lang": "Middle French",
+          "form": "dormir",
+          "gloss": "to sleep"
+        },
+        {
+          "lang": "Middle French",
+          "form": "dormeor",
+          "gloss": "sleeping room"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "draper",
+    "pos": "n",
+    "crossreferences": [
+      "drape"
+    ],
+    "etymology": "mid-14c. (mid-12c. as a surname), \"one who weaves and/or sells cloth,\" from Anglo-French draper, Old French drapier (13c.) \"draper, clothes-seller, clothes-maker,\" agent noun from drap (see drape (v.)).",
+    "years": [],
+    "clues": [
+      "One who weaves and/or sells cloth.",
+      "First attested: mid-14c..",
+      "Its name began as an occupation built from an older word for cloth.",
+      "Rooted in Anglo-French.",
+      "6 letters, noun"
+    ],
+    "roots": {
+      "attested": "mid-14c.",
+      "lineage": [
+        {
+          "lang": "Old French",
+          "form": "drapier",
+          "gloss": "clothes-seller, clothes-maker"
+        },
+        {
+          "lang": "Anglo-French",
+          "form": "draper"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "drastic",
+    "pos": "adj",
+    "crossreferences": [],
+    "etymology": "1690s, originally medical, \"forceful, vigorous, especially in effect on bowels,\" from Greek drastikos \"effective, efficacious; active, violent,\" from drasteon \"(thing) to be done,\" from dran \"to do, act, perform.\" Sense of \"extreme, severe\" is first recorded 1808. Related: Drastically.",
+    "years": [
+      1690,
+      1808
+    ],
+    "clues": [
+      "Forceful, vigorous, especially in effect on bowels.",
+      "First attested: 1690s.",
+      "Effective, efficacious; active, violent.",
+      "Rooted in Greek.",
+      "7 letters, adjective"
+    ],
+    "roots": {
+      "attested": "1690s",
+      "lineage": [
+        {
+          "lang": "Greek",
+          "form": "dran",
+          "gloss": "to do, act, perform"
+        },
+        {
+          "lang": "Greek",
+          "form": "drasteon",
+          "gloss": "(thing) to be done"
+        },
+        {
+          "lang": "Greek",
+          "form": "drastikos",
+          "gloss": "effective, efficacious; active, violent"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "dream",
+    "pos": "n",
+    "crossreferences": [
+      "somnolence"
+    ],
+    "etymology": "mid-13c. in the sense \"sequence of sensations passing through a sleeping person's mind\" (also as a verb), probably related to Old Norse draumr, Danish drøm, Swedish dröm, Old Saxon drom \"merriment, noise,\" Old Frisian dram \"dream,\" Dutch droom, Old High German troum, German traum \"dream,\" perhaps from Proto-Germanic *draugmas \"deception, illusion, phantasm\" (source also of Old Saxon bidriogan, Old High German triogan, German trügen \"to deceive, delude,\" Old Norse draugr \"ghost, apparition\"). Possible cognates outside Germanic are Sanskrit druh- \"seek to harm, injure,\" Avestan druz- \"lie, deceive.\"\n\nBut Old English dream meant only \"joy, mirth, noisy merriment,\" also \"music.\" And much study has failed to prove that Old English dream is the root of the modern word for \"sleeping vision,\" despite being identical in spelling. Either the meaning of the word changed dramatically or \"vision\" was an unrecorded secondary Old English meaning of dream, or there are two separate words here. OED offers this theory: \"It seems as if the presence of dream 'joy, mirth, music,' had caused dream 'dream' to be avoided, at least in literature, and swefn, lit. 'sleep,' to be substituted ....\"\n\nWords for \"sleeping vision\" in Old English were mæting and swefn. Old English swefn originally meant \"sleep,\" as did a great many Indo-European \"dream\" nouns, such as Lithuanian sapnas, Old Church Slavonic sunu, and the Romanic words (French songe, Spanish sueño, Italian sogno all from Latin somnium (from PIE *swep-no-; cognate with Greek hypnos; see somnolence; Old English swefn is from the same root)). Dream in the sense of \"ideal or aspiration\" is from 1931, from earlier sense of \"something of dream-like beauty or charm\" (1888).",
+    "years": [
+      1888,
+      1931
+    ],
+    "clues": [
+      "Sequence of sensations passing through a sleeping person's mind.",
+      "First attested: mid-13c..",
+      "Old English had an identical word that meant 'joy, mirth, noisy merriment.'",
+      "Perhaps rooted in Proto-Germanic.",
+      "5 letters, noun"
+    ],
+    "roots": {
+      "attested": "mid-13c.",
+      "lineage": [
+        {
+          "lang": "Proto-Germanic",
+          "form": "*draugmas",
+          "gloss": "deception, illusion, phantasm",
+          "uncertain": true
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "dress",
+    "pos": "v",
+    "crossreferences": [
+      "direct",
+      "dressing"
+    ],
+    "etymology": "early 14c., \"make straight; direct, guide, control, prepare for cooking,\" from Old French dresser, drecier \"raise (oneself), address, prepare, lift, raise, hoist, set up, arrange, set (a table), serve (food), straighten, put right, direct,\" from Vulgar Latin *directiare, from Latin directus \"direct, straight\" (see direct (v.)).\n\nSense of \"decorate, adorn\" is late 14c., as is that of \"put on clothing.\" Original sense survives in military meaning \"align columns of troops.\" Dress up \"attire elaborately\" is from 1670s; to dress (someone) down (1769) is ironical. Related: Dressed; dressing. Dressing down \"wearing clothes less formal than expected\" is from 1960.",
+    "years": [
+      1670,
+      1769,
+      1960
+    ],
+    "clues": [
+      "Make straight; direct, guide, control, prepare for cooking.",
+      "First attested: early 14c..",
+      "Direct, straight.",
+      "Etymologically related to: direct.",
+      "5 letters, verb"
+    ],
+    "roots": {
+      "attested": "early 14c.",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "directus",
+          "gloss": "direct, straight"
+        },
+        {
+          "lang": "Vulgar Latin",
+          "form": "*directiare"
+        },
+        {
+          "lang": "Old French",
+          "form": "dresser",
+          "gloss": "straighten, put right, direct"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "earthwork",
+    "pos": "n",
+    "crossreferences": [
+      "earth",
+      "work"
+    ],
+    "etymology": "\"mounds of earth thrown up for some purpose, especially as a military fortification,\" 1630s, from earth + work (n.). In this sense Old English had eorðbyrig \"mound, embankment;\" Old English eorðweorc meant \"work on the land.\"",
+    "years": [
+      1630
+    ],
+    "clues": [
+      "Mounds of earth thrown up for some purpose, especially as a military fortification.",
+      "First attested: 1630s.",
+      "Mound, embankment.",
+      "Formed by joining two ordinary English words.",
+      "9 letters, noun"
+    ],
+    "roots": {
+      "attested": "1630s",
+      "lineage": [],
+      "parts": [
+        {
+          "form": "earth"
+        },
+        {
+          "form": "work"
+        }
+      ]
+    }
+  },
+  {
+    "word": "economic",
+    "pos": "adj",
+    "crossreferences": [
+      "economical",
+      "economy"
+    ],
+    "etymology": "1590s, \"pertaining to management of a household,\" perhaps shortened from economical, or else from French économique or directly from Latin oeconomicus \"of domestic economy,\" from Greek oikonomikos \"practiced in the management of a household or family\" (also the name of a treatise by Xenophon on the duties of domestic life), hence, \"frugal, thrifty,\" from oikonomia \"household management\" (see economy (n.)). Meaning \"relating to the science of economics\" is from 1835 and now is the main sense, economical retaining the older one of \"characterized by thrift.\"",
+    "years": [
+      1590,
+      1835
+    ],
+    "clues": [
+      "Pertaining to management of a household.",
+      "First attested: 1590s.",
+      "Practiced in the management of a household or family.",
+      "Rooted in Latin.",
+      "8 letters, adjective"
+    ],
+    "roots": {
+      "attested": "1590s",
+      "lineage": [
+        {
+          "lang": "Greek",
+          "form": "oikonomia",
+          "gloss": "household management"
+        },
+        {
+          "lang": "Greek",
+          "form": "oikonomikos",
+          "gloss": "practiced in the management of a household or family"
+        },
+        {
+          "lang": "Latin",
+          "form": "oeconomicus",
+          "gloss": "of domestic economy"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "economical",
+    "pos": "adj",
+    "crossreferences": [
+      "economic",
+      "-al"
+    ],
+    "etymology": "1570s, \"pertaining to household management;\" from economic + -al (1). Sense of \"pertaining to political economy\" is from 1781, but that sense more commonly goes with economic, and the main modern sense of this spelling is \"thrifty\" (1780). Related: Economically.",
+    "years": [
+      1570,
+      1780,
+      1781
+    ],
+    "clues": [
+      "Pertaining to household management.",
+      "First attested: 1570s.",
+      "Its main modern sense is 'thrifty.'",
+      "Built from a shorter, related English word.",
+      "10 letters, adjective"
+    ],
+    "roots": {
+      "attested": "1570s",
+      "lineage": [],
+      "parts": [
+        {
+          "form": "economic"
+        },
+        {
+          "form": "-al"
+        }
+      ]
+    }
+  },
+  {
+    "word": "efficient",
+    "pos": "adj",
+    "crossreferences": [
+      "effect"
+    ],
+    "etymology": "late 14c., \"making, producing immediate effect, active, effective,\" from Old French efficient and directly from Latin efficientem (nominative efficiens) \"effective, efficient, producing, active,\" present participle of efficere \"work out, accomplish\" (see effect). Meaning \"productive, skilled\" is from 1787. Related: Efficiently.",
+    "years": [
+      1787
+    ],
+    "clues": [
+      "Making, producing immediate effect, active, effective.",
+      "First attested: late 14c..",
+      "Work out, accomplish.",
+      "Etymologically related to: effect.",
+      "9 letters, adjective"
+    ],
+    "roots": {
+      "attested": "late 14c.",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "efficere",
+          "gloss": "work out, accomplish"
+        },
+        {
+          "lang": "Latin",
+          "form": "efficientem",
+          "gloss": "effective, efficient, producing, active"
+        },
+        {
+          "lang": "Old French",
+          "form": "efficient"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "electrum",
+    "pos": "n",
+    "crossreferences": [
+      "electric"
+    ],
+    "etymology": "\"alloy of gold and up to 40% silver,\" late 14c. (in Old English elehtre), from Latin electrum \"alloy of gold and silver,\" also \"amber\" (see electric). So called probably for its pale yellow color. \"A word used by Greek and Latin authors in various meanings at various times\" [\"Century Dictionary\"]. In Greek, usually of amber but also of pure gold. The Romans used it of amber but also of the alloy. The sense of \"amber\" also occasionally is found in English. \"At all times, and especially among the Latin writers, there is more or less uncertainty in regard to the meaning of this word\" [\"Century Dictionary\"].",
+    "years": [],
+    "clues": [
+      "Alloy of gold and up to 40% silver.",
+      "First attested: late 14c..",
+      "Alloy of gold and silver.",
+      "Rooted in Latin.",
+      "8 letters, noun"
+    ],
+    "roots": {
+      "attested": "late 14c.",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "electrum",
+          "gloss": "alloy of gold and silver"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "element",
+    "pos": "n",
+    "crossreferences": [],
+    "etymology": "c. 1300, \"earth, air, fire, or water; one of the four things regarded by the ancients as the constituents of all things,\" from Old French element (10c.), from Latin elementum \"rudiment, first principle, matter in its most basic form\" (translating Greek stoikheion), origin and original sense unknown. Meaning \"simplest component of a complex substance\" is late 14c. Modern sense in chemistry is from 1813, but is not essentially different from the ancient one. Meaning \"proper or natural environment of anything\" is from 1590s, from the old notion that each class of living beings had its natural abode in one of the four elements. Elements \"atmospheric force\" is 1550s.",
+    "years": [
+      1300,
+      1550,
+      1590,
+      1813
+    ],
+    "clues": [
+      "Earth, air, fire, or water; one of the four things regarded by the ancients as the constituents of all things.",
+      "First attested: c. 1300.",
+      "Rudiment, first principle, matter in its most basic form.",
+      "Rooted in Old French.",
+      "7 letters, noun"
+    ],
+    "roots": {
+      "attested": "c. 1300",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "elementum",
+          "gloss": "rudiment, first principle, matter in its most basic form"
+        },
+        {
+          "lang": "Old French",
+          "form": "element"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "empirical",
+    "pos": "adj",
+    "crossreferences": [
+      "empiric",
+      "-al"
+    ],
+    "etymology": "1560s, originally in medicine, \"pertaining to or derived from experience or experiments,\" from empiric + -al (1). In a general sense of \"guided by mere experience\" from 1757. Related: Empirically (1640s as \"by means of observation and experiment\").",
+    "years": [
+      1560,
+      1640,
+      1757
+    ],
+    "clues": [
+      "Pertaining to or derived from experience or experiments.",
+      "First attested: 1560s.",
+      "Guided by mere experience.",
+      "Built from a shorter, related English word.",
+      "9 letters, adjective"
+    ],
+    "roots": {
+      "attested": "1560s",
+      "lineage": [],
+      "parts": [
+        {
+          "form": "empiric"
+        },
+        {
+          "form": "-al"
+        }
+      ]
+    }
+  },
+  {
+    "word": "engraving",
+    "pos": "n",
+    "crossreferences": [
+      "engrave"
+    ],
+    "etymology": "c. 1600, \"act of cutting designs, etc. on a hard surface,\" verbal noun from engrave (v.). Meaning \"that which is engraved\" is from 1610s; meaning \"impression taken from an engraved plate\" is from 1803.",
+    "years": [
+      1600,
+      1610,
+      1803
+    ],
+    "clues": [
+      "Act of cutting designs, etc. on a hard surface.",
+      "First attested: c. 1600.",
+      "Later also a print made from an incised plate.",
+      "Etymologically related to: engrave.",
+      "9 letters, noun"
+    ],
+    "roots": {
+      "attested": "c. 1600",
+      "lineage": [],
+      "parts": []
+    }
+  },
+  {
+    "word": "enthusiast",
+    "pos": "n",
+    "crossreferences": [
+      "enthusiasm"
+    ],
+    "etymology": "1560s, pejorative, \"one who believes himself possessed of divine revelations or special communication from God,\" from Greek enthousiastes \"a person inspired,\" from enthousiazein (see enthusiasm). General sense (not always entirely pejorative) is from mid-18c.",
+    "years": [
+      1560
+    ],
+    "clues": [
+      "One who believes himself possessed of divine revelations or special communication from God.",
+      "First attested: 1560s.",
+      "A person inspired.",
+      "Rooted in Greek.",
+      "10 letters, noun"
+    ],
+    "roots": {
+      "attested": "1560s",
+      "lineage": [
+        {
+          "lang": "Greek",
+          "form": "enthousiazein"
+        },
+        {
+          "lang": "Greek",
+          "form": "enthousiastes",
+          "gloss": "a person inspired"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "equestrian",
+    "pos": "adj",
+    "crossreferences": [
+      "equine"
+    ],
+    "etymology": "\"pertaining to or relating to horses or horsemanship,\" 1650s, formed in English from Latin equester (genitive equestris) \"of a horseman, knightly,\" from eques \"horseman, knight,\" from equus \"horse\" (see equine). As a noun, \"one who rides on horseback,\" from 1786. The feminine form equestrienne is attested from 1848 (Century Dictionary calls it \"circus-bill French\"). An earlier adjective was equestrial (1550s).",
+    "years": [
+      1550,
+      1650,
+      1786,
+      1848
+    ],
+    "clues": [
+      "Pertaining to or relating to horses or horsemanship.",
+      "First attested: 1650s.",
+      "Of a horseman, knightly.",
+      "Etymologically related to: equine.",
+      "10 letters, adjective"
+    ],
+    "roots": {
+      "attested": "1650s",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "equus",
+          "gloss": "horse"
+        },
+        {
+          "lang": "Latin",
+          "form": "eques",
+          "gloss": "horseman, knight"
+        },
+        {
+          "lang": "Latin",
+          "form": "equester",
+          "gloss": "of a horseman, knightly"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "equinox",
+    "pos": "n",
+    "crossreferences": [
+      "equal",
+      "night"
+    ],
+    "etymology": "c. 1400, \"point at which the sun crosses the earth's equator, making day and night of equal length everywhere,\" from Old French equinoce (12c.) or directly from Medieval Latin equinoxium \"equality of night (and day),\" from Latin aequinoctium, usually in plural, dies aequinoctii \"the equinoxes,\" from aequus \"equal\" (see equal (adj.)) + nox (genitive noctis) \"night\" (see night). The Old English translation was efnniht. Related: Equinoctial.",
+    "years": [
+      1400
+    ],
+    "clues": [
+      "Point at which the sun crosses the earth's equator, making day and night of equal length everywhere.",
+      "First attested: c. 1400.",
+      "Equality of night (and day).",
+      "Etymologically related to: equal, night.",
+      "7 letters, noun"
+    ],
+    "roots": {
+      "attested": "c. 1400",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "aequinoctium"
+        },
+        {
+          "lang": "Medieval Latin",
+          "form": "equinoxium",
+          "gloss": "equality of night (and day)"
+        },
+        {
+          "lang": "Old French",
+          "form": "equinoce"
+        }
+      ],
+      "parts": [
+        {
+          "lang": "Latin",
+          "form": "aequus",
+          "gloss": "equal"
+        },
+        {
+          "lang": "Latin",
+          "form": "nox",
+          "gloss": "night"
+        }
+      ]
+    }
+  },
+  {
+    "word": "escape",
+    "pos": "v",
+    "crossreferences": [
+      "ex-",
+      "cap"
+    ],
+    "etymology": "c. 1300, transitive and intransitive, \"free oneself from confinement; extricate oneself from trouble; get away safely by flight (from battle, an enemy, etc.),\" from Old North French escaper, Old French eschaper (12c., Modern French échapper), from Vulgar Latin *excappare, literally \"get out of one's cape, leave a pursuer with just one's cape,\" from Latin ex- \"out of\" (see ex-) + Late Latin cappa \"mantle\" (see cap (n.)). Mid-14c., of things, \"get or keep out of a person's grasp, elude (notice, perception, attention, etc.);\" late 14c. as \"avoid experiencing or suffering (something), avoid physical contact with; avoid (a consequence).\" Related: Escaped; escaping.",
+    "years": [
+      1300
+    ],
+    "clues": [
+      "Free oneself from confinement; extricate oneself from trouble; get away safely by flight (from battle, an enemy, etc.).",
+      "First attested: c. 1300.",
+      "Out of.",
+      "Rooted in Old North French.",
+      "6 letters, verb"
+    ],
+    "roots": {
+      "attested": "c. 1300",
+      "lineage": [
+        {
+          "lang": "Vulgar Latin",
+          "form": "*excappare",
+          "gloss": "get out of one's cape, leave a pursuer with just one's cape"
+        },
+        {
+          "lang": "Old North French",
+          "form": "escaper"
+        }
+      ],
+      "parts": [
+        {
+          "lang": "Latin",
+          "form": "ex-",
+          "gloss": "out of"
+        },
+        {
+          "lang": "Late Latin",
+          "form": "cappa",
+          "gloss": "mantle"
+        }
+      ]
+    }
+  },
+  {
+    "word": "ethos",
+    "pos": "n",
+    "crossreferences": [
+      "idiom"
+    ],
+    "etymology": "\"the 'genius' of a people, characteristic spirit of a time and place,\" 1851 (Palgrave) from Greek ethos \"habitual character and disposition; moral character; habit, custom; an accustomed place,\" in plural, \"manners,\" from suffixed form of PIE root *s(w)e- third person pronoun and reflexive (see idiom). An important concept in Aristotle (as in \"Rhetoric\" II xii-xiv).",
+    "years": [
+      1851
+    ],
+    "clues": [
+      "The 'genius' of a people, characteristic spirit of a time and place.",
+      "First attested: 1851.",
+      "Habitual character and disposition; moral character; habit, custom; an accustomed place.",
+      "Etymologically related to: idiom.",
+      "5 letters, noun"
+    ],
+    "roots": {
+      "attested": "1851",
+      "lineage": [
+        {
+          "lang": "PIE",
+          "form": "*s(w)e-"
+        },
+        {
+          "lang": "Greek",
+          "form": "ethos",
+          "gloss": "habitual character and disposition; moral character; habit, custom; an accustomed place"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "exorcism",
+    "pos": "n",
+    "crossreferences": [
+      "ex-"
+    ],
+    "etymology": "early 15c., \"a calling up or driving out of evil spirits,\" from Late Latin exorcismus, from Greek exorkismos \"administration of an oath,\" in Ecclesiastical Greek, \"exorcism,\" from exorkizein \"exorcize, bind by oath,\" from ex \"out of\" (see ex-) + horkizein \"cause to swear,\" from horkos \"oath.\" Earlier in the same sense was exorcization (late 14c.).",
+    "years": [],
+    "clues": [
+      "A calling up or driving out of evil spirits.",
+      "First attested: early 15c..",
+      "Administration of an oath.",
+      "Rooted in Late Latin.",
+      "8 letters, noun"
+    ],
+    "roots": {
+      "attested": "early 15c.",
+      "lineage": [
+        {
+          "lang": "Greek",
+          "form": "exorkizein",
+          "gloss": "exorcize, bind by oath"
+        },
+        {
+          "lang": "Greek",
+          "form": "exorkismos",
+          "gloss": "administration of an oath"
+        },
+        {
+          "lang": "Late Latin",
+          "form": "exorcismus"
+        }
+      ],
+      "parts": [
+        {
+          "lang": "Greek",
+          "form": "ex",
+          "gloss": "out of"
+        },
+        {
+          "lang": "Greek",
+          "form": "horkizein",
+          "gloss": "cause to swear"
+        }
+      ]
+    }
+  },
+  {
+    "word": "faintly",
+    "pos": "adv",
+    "crossreferences": [
+      "faint",
+      "-ly"
+    ],
+    "etymology": "c. 1300, \"dispiritedly, timidly, half-heartedly;\" early 14c. \"feebly, wearily, without vigor;\" from faint (adj.) + -ly (2). Meaning \"indistinctly\" is from 1580s. Also in Middle English, \"deceitfully, hypocritically, falsely\" (mid-14c.).",
+    "years": [
+      1300,
+      1580
+    ],
+    "clues": [
+      "Dispiritedly, timidly, half-heartedly.",
+      "First attested: c. 1300.",
+      "Feebly, wearily, without vigor.",
+      "Built from a shorter, related English word.",
+      "7 letters, adverb"
+    ],
+    "roots": {
+      "attested": "c. 1300",
+      "lineage": [],
+      "parts": [
+        {
+          "form": "faint"
+        },
+        {
+          "form": "-ly"
+        }
+      ]
+    }
+  },
+  {
+    "word": "familiar",
+    "pos": "adj",
+    "crossreferences": [
+      "family"
+    ],
+    "etymology": "mid-14c., \"intimate, very friendly, on a family footing,\" from Old French famelier \"related; friendly,\" from Latin familiaris \"domestic, private, belonging to a family, of a household;\" also \"familiar, intimate, friendly,\" dissimilated from *familialis, from familia (see family). From late 14c. as \"of or pertaining to one's family.\" Of things, \"known from long association,\" from late 15c. Meaning \"ordinary, usual\" is from 1590s.\n\nThe noun meaning \"demon, evil spirit that answers one's call\" is from 1580s (familiar spirit is attested from 1560s); earlier as a noun it meant \"a familiar friend\" (late 14c.). The Latin plural, used as a noun, meant \"the slaves,\" also \"a friend, intimate acquaintance, companion.\"",
+    "years": [
+      1560,
+      1580,
+      1590
+    ],
+    "clues": [
+      "Intimate, very friendly, on a family footing.",
+      "First attested: mid-14c..",
+      "Related; friendly.",
+      "Etymologically related to: family.",
+      "8 letters, adjective"
+    ],
+    "roots": {
+      "attested": "mid-14c.",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "familiaris",
+          "gloss": "domestic, private, belonging to a family, of a household"
+        },
+        {
+          "lang": "Old French",
+          "form": "famelier",
+          "gloss": "related; friendly"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "fatling",
+    "pos": "n",
+    "crossreferences": [
+      "fat",
+      "-ling"
+    ],
+    "etymology": "\"lamb, kid, or other young animal fattened for slaughter,\" 1520s, from fat (n.) + -ling.",
+    "years": [
+      1520
+    ],
+    "clues": [
+      "Lamb, kid, or other young animal fattened for slaughter.",
+      "First attested: 1520s.",
+      "Combines a word for plumpness with a diminutive suffix.",
+      "Built from a shorter, related English word.",
+      "7 letters, noun"
+    ],
+    "roots": {
+      "attested": "1520s",
+      "lineage": [],
+      "parts": [
+        {
+          "form": "fat"
+        },
+        {
+          "form": "-ling"
+        }
+      ]
+    }
+  },
+  {
+    "word": "favorite",
+    "pos": "n",
+    "crossreferences": [
+      "favor"
+    ],
+    "etymology": "\"person or thing regarded with especial liking,\" 1580s, from Middle French favorit, perhaps via Italian favorito, noun use of past participle of favorire, from favore, from Latin favorem \"inclination, partiality, support\" (see favor (n.)). \n\nEspecially, \"a person who gains dominant influence over a superior\" (1590s). In racing, attested from 1813. As an adjective, by 1711. Favorite son in figurative use is from 1788. As a corresponding noun, \"person who promotes the interests of another,\" Latin had fautor, hence Old French fauteur, Middle English fautour (early 14c.), but it has perished along with its fem. form fautress.",
+    "years": [
+      1580,
+      1590,
+      1711,
+      1788,
+      1813
+    ],
+    "clues": [
+      "Person or thing regarded with especial liking.",
+      "First attested: 1580s.",
+      "Inclination, partiality, support.",
+      "Rooted in Middle French.",
+      "8 letters, noun"
+    ],
+    "roots": {
+      "attested": "1580s",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "favorem",
+          "gloss": "inclination, partiality, support"
+        },
+        {
+          "lang": "Italian",
+          "form": "favorito",
+          "uncertain": true
+        },
+        {
+          "lang": "Middle French",
+          "form": "favorit"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "feedback",
+    "pos": "n",
+    "crossreferences": [
+      "feed",
+      "back"
+    ],
+    "etymology": "1920, in the electronics sense, \"the return of a fraction of an output signal to the input of an earlier stage,\" from verbal phrase, from feed (v.) + back (adv.). Transferred use, \"information about the results of a process\" is attested by 1955.",
+    "years": [
+      1920,
+      1955
+    ],
+    "clues": [
+      "The return of a fraction of an output signal to the input of an earlier stage.",
+      "First attested: 1920.",
+      "Information about the results of a process.",
+      "Formed by joining two ordinary English words.",
+      "8 letters, noun"
+    ],
+    "roots": {
+      "attested": "1920",
+      "lineage": [],
+      "parts": [
+        {
+          "form": "feed"
+        },
+        {
+          "form": "back"
+        }
+      ]
+    }
+  },
+  {
+    "word": "fetlock",
+    "pos": "n",
+    "crossreferences": [
+      "foot"
+    ],
+    "etymology": "\"tuft of hair behind the pastern-joint of a horse,\" early 14c., fetlak, from a Germanic source (cognates: Dutch vetlock, Middle High German fizlach, German Fiszloch), perhaps from Proto-Germanic *fetel- (source of German fessel \"pastern\"), from PIE *ped-el-, from root *ped- (1) \"foot\" (see foot (n.)). The Middle English diminutive suffix -ok (from Old English -oc) was misread and the word taken in folk etymology as a compound of feet and lock (of hair).",
+    "years": [],
+    "clues": [
+      "Tuft of hair behind the pastern-joint of a horse.",
+      "First attested: early 14c..",
+      "Pastern.",
+      "Etymologically related to: foot.",
+      "7 letters, noun"
+    ],
+    "roots": {
+      "attested": "early 14c.",
+      "lineage": [
+        {
+          "lang": "PIE",
+          "form": "*ped-",
+          "gloss": "foot",
+          "uncertain": true
+        },
+        {
+          "lang": "PIE",
+          "form": "*ped-el-",
+          "uncertain": true
+        },
+        {
+          "lang": "Proto-Germanic",
+          "form": "*fetel-",
+          "uncertain": true
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "filament",
+    "pos": "n",
+    "crossreferences": [
+      "file"
+    ],
+    "etymology": "\"fine untwisted thread, separate fibril,\" 1590s, from Modern Latin filamentum, from Late Latin filare \"to spin, draw out in a long line,\" from Latin filum \"thread\" (see file (v.1)). As the name of the incandescent element in a light-bulb, from 1881.",
+    "years": [
+      1590,
+      1881
+    ],
+    "clues": [
+      "Fine untwisted thread, separate fibril.",
+      "First attested: 1590s.",
+      "To spin, draw out in a long line.",
+      "Etymologically related to: file.",
+      "8 letters, noun"
+    ],
+    "roots": {
+      "attested": "1590s",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "filum",
+          "gloss": "thread"
+        },
+        {
+          "lang": "Late Latin",
+          "form": "filare",
+          "gloss": "to spin, draw out in a long line"
+        },
+        {
+          "lang": "Modern Latin",
+          "form": "filamentum"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "finger",
+    "pos": "n",
+    "crossreferences": [],
+    "etymology": "\"terminal or digital member of the hand\" (in a restricted sense not including the thumb), Old English finger, fingor \"finger,\" from Proto-Germanic *fingraz (source also of Old Saxon fingar, Old Frisian finger, Old Norse fingr, Dutch vinger, German Finger, Gothic figgrs \"finger\"), with no cognates outside Germanic; perhaps connected with PIE *penkwe-, the root meaning \"five.\"\n\nAs a unit of measure for liquor and gunshot (late Old English) it represents the breadth of a finger, about three-quarters of an inch. They generally are numbered from the thumb outward, and named index finger, fool's finger, leech- or physic-finger, and ear-finger.",
+    "years": [],
+    "clues": [
+      "Terminal or digital member of the hand.",
+      "No firm early date survives in the record.",
+      "Five.",
+      "Rooted in Proto-Germanic.",
+      "6 letters, noun"
+    ],
+    "roots": {
+      "attested": null,
+      "lineage": [
+        {
+          "lang": "PIE",
+          "form": "*penkwe-",
+          "gloss": "five",
+          "uncertain": true
+        },
+        {
+          "lang": "Proto-Germanic",
+          "form": "*fingraz"
+        },
+        {
+          "lang": "Old English",
+          "form": "finger"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "firing",
+    "pos": "n",
+    "crossreferences": [
+      "fire"
+    ],
+    "etymology": "1540s, \"action of applying fire or setting on fire,\" verbal noun from fire (v.). From c. 1600 as \"act of discharging firearms.\" Firing squad is attested from 1891 in reference to military executions; earlier as \"those selected to fire over the grave of anyone interred with military honors\" (1864); earlier in both senses is firing-party (1798 in reference to military executions; 1776 in reference to military funerals).",
+    "years": [
+      1540,
+      1600,
+      1776,
+      1798,
+      1864,
+      1891
+    ],
+    "clues": [
+      "Action of applying fire or setting on fire.",
+      "First attested: 1540s.",
+      "Act of discharging firearms.",
+      "Etymologically related to: fire.",
+      "6 letters, noun"
+    ],
+    "roots": {
+      "attested": "1540s",
+      "lineage": [],
+      "parts": []
+    }
+  },
+  {
+    "word": "fishing",
+    "pos": "n",
+    "crossreferences": [
+      "fish"
+    ],
+    "etymology": "\"the art or practice of trying to catch fish,\" c. 1300, fysschynge, verbal noun from fish (v.). Figurative use from 1540s. The Old English noun was fiscað.\n\nFishing-boat is from 1732. Fishing rod (1550s) is older than fishing pole (1791). To \"go fishing\" is as old as Old English on fiscoð gan.",
+    "years": [
+      1300,
+      1540,
+      1550,
+      1732,
+      1791
+    ],
+    "clues": [
+      "The art or practice of trying to catch fish.",
+      "First attested: c. 1300.",
+      "A verbal noun formed from an ordinary English verb.",
+      "Built from a shorter, related English word.",
+      "7 letters, noun"
+    ],
+    "roots": {
+      "attested": "c. 1300",
+      "lineage": [],
+      "parts": []
+    }
+  },
+  {
+    "word": "fixed",
+    "pos": "adj",
+    "crossreferences": [
+      "fix"
+    ],
+    "etymology": "late 14c., of stars, \"unchangeable in position,\" past participle adjective from fix (v.). Related: fixedly (1590s). Fixed-income (n.) is from 1767.",
+    "years": [
+      1590,
+      1767
+    ],
+    "clues": [
+      "Unchangeable in position.",
+      "First attested: late 14c..",
+      "Originated as a past participle adjective applied early on to unmoving stars.",
+      "Built from a shorter, related English word.",
+      "5 letters, adjective"
+    ],
+    "roots": {
+      "attested": "late 14c.",
+      "lineage": [],
+      "parts": []
+    }
+  },
+  {
+    "word": "fleet",
+    "pos": "v",
+    "crossreferences": [
+      "pluvial",
+      "fleeting"
+    ],
+    "etymology": "Old English fleotan \"to float; drift; flow, run (as water); swim; sail (of a ship),\" from Proto-Germanic *fleutan (source also of Old Frisian fliata, Old Saxon fliotan \"to flow,\" Old High German fliozzan \"to float, flow,\" German fliessen \"to flow, run, trickle\" (as water), Old Norse fliota \"to float, flow\"), from PIE root *pleu- \"to flow, swim\" (see pluvial).\n\nMeaning \"to glide away like a stream, vanish imperceptibly\" is from c. 1200; hence \"to fade, to vanish\" (1570s). Related: Fleeted; fleeting.",
+    "years": [
+      1200,
+      1570
+    ],
+    "clues": [
+      "To float; drift; flow, run (as water); swim; sail (of a ship).",
+      "No firm early date survives in the record.",
+      "To flow.",
+      "Etymologically related to: pluvial.",
+      "5 letters, verb"
+    ],
+    "roots": {
+      "attested": null,
+      "lineage": [
+        {
+          "lang": "PIE",
+          "form": "*pleu-",
+          "gloss": "to flow, swim"
+        },
+        {
+          "lang": "Proto-Germanic",
+          "form": "*fleutan"
+        },
+        {
+          "lang": "Old English",
+          "form": "fleotan",
+          "gloss": "to float; drift; flow, run (as water); swim; sail (of a ship)"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "flirt",
+    "pos": "v",
+    "crossreferences": [
+      "flip",
+      "flit",
+      "flirt"
+    ],
+    "etymology": "1550s, \"to turn up one's nose, sneer at;\" later \"to rap or flick, as with the fingers\" (1560s); \"throw with a sudden movement,\" also \"move in short, quick flights\" (1580s). Perhaps imitative (compare flip (v.), also East Frisian flirt \"a flick or light blow,\" flirtje \"a giddy girl,\" which also might have fed into the English word), but perhaps rather from or influenced by flit (v.). Related: Flirted; flirting.\n\nThe main modern verbal sense of \"play at courtship\" (1777) probably developed from the noun (see flirt (n.)) but also could have grown naturally from the 16c. meaning \"to flit inconstantly from object to object.\" To flirt a fan (1660s) was to snap it open or closed with a brisk jerk and was long considered part of the coquette's arsenal, which might have contributed to the sense shift. Or the word could have been influenced from French, where Old French fleureter meant \"talk sweet nonsense,\" also \"to touch a thing in passing,\" diminutive of fleur \"flower\" (n.) and metaphoric of bees skimming from flower to flower. French flirter \"to flirt\" is a 19c. borrowing from English.",
+    "years": [
+      1550,
+      1560,
+      1580,
+      1660,
+      1777
+    ],
+    "clues": [
+      "To turn up one's nose, sneer at.",
+      "First attested: 1550s.",
+      "Throw with a sudden movement.",
+      "Perhaps imitative in origin.",
+      "5 letters, verb"
+    ],
+    "roots": {
+      "attested": "1550s",
+      "lineage": [],
+      "parts": []
+    }
+  },
+  {
+    "word": "forethought",
+    "pos": "n",
+    "crossreferences": [
+      "fore-",
+      "think"
+    ],
+    "etymology": "early 14c., \"a thinking beforehand, the act of planning,\" verbal noun from forethink \"think of something beforehand,\" from Old English foreþencan \"to premeditate, consider;\" see fore- + think. Meaning \"prudence, provident care\" is from 1719.",
+    "years": [
+      1719
+    ],
+    "clues": [
+      "A thinking beforehand, the act of planning.",
+      "First attested: early 14c..",
+      "Think of something beforehand.",
+      "Etymologically related to: think.",
+      "11 letters, noun"
+    ],
+    "roots": {
+      "attested": "early 14c.",
+      "lineage": [
+        {
+          "lang": "Old English",
+          "form": "foreþencan",
+          "gloss": "to premeditate, consider"
+        }
+      ],
+      "parts": [
+        {
+          "form": "fore-"
+        },
+        {
+          "form": "think"
+        }
+      ]
+    }
+  },
+  {
+    "word": "gabble",
+    "pos": "n",
+    "crossreferences": [
+      "gabble"
+    ],
+    "etymology": "\"senseless, loud, rapid talk; animal noise,\" c. 1600, from gabble (v.).",
+    "years": [
+      1600
+    ],
+    "clues": [
+      "Senseless, loud, rapid talk; animal noise.",
+      "First attested: c. 1600.",
+      "Formed as a noun from an existing English verb.",
+      "Built from a shorter, related English word.",
+      "6 letters, noun"
+    ],
+    "roots": {
+      "attested": "c. 1600",
+      "lineage": [],
+      "parts": []
+    }
+  },
+  {
+    "word": "galactic",
+    "pos": "adj",
+    "crossreferences": [
+      "galaxy"
+    ],
+    "etymology": "1839, \"of the Milky Way, of the bright band of stars around the night sky,\" from Late Latin galacticus, from galaxias (see galaxy). In modern scientific sense \"pertaining to (our) galaxy,\" from 1849. From 1844 as \"of or pertaining to milk.\"",
+    "years": [
+      1839,
+      1844,
+      1849
+    ],
+    "clues": [
+      "Of the Milky Way, of the bright band of stars around the night sky.",
+      "First attested: 1839.",
+      "Pertaining to (our) galaxy.",
+      "Etymologically related to: galaxy.",
+      "8 letters, adjective"
+    ],
+    "roots": {
+      "attested": "1839",
+      "lineage": [
+        {
+          "lang": "Late Latin",
+          "form": "galacticus"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "galoot",
+    "pos": "n",
+    "crossreferences": [],
+    "etymology": "1812, nautical, \"raw recruit, green hand,\" apparently originally a sailor's contemptuous word for soldiers or marines, of unknown origin. \"Dictionary of American Slang\" proposes galut, Sierra Leone creole form of Spanish galeoto \"galley slave.\" In general (non-nautical) use by 1866, \"awkward or boorish man,\" but often a term of humorous contempt.",
+    "years": [
+      1812,
+      1866
+    ],
+    "clues": [
+      "Raw recruit, green hand.",
+      "First attested: 1812.",
+      "Perhaps from a Spanish word for 'galley slave.'",
+      "Of unknown origin.",
+      "6 letters, noun"
+    ],
+    "roots": {
+      "attested": "1812",
+      "lineage": [
+        {
+          "lang": "Spanish",
+          "form": "galeoto",
+          "gloss": "galley slave",
+          "uncertain": true
+        },
+        {
+          "lang": "Sierra Leone creole",
+          "form": "galut",
+          "uncertain": true
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "garter",
+    "pos": "n",
+    "crossreferences": [],
+    "etymology": "\"tie or fastening to keep a stocking in place on the leg,\" early 14c., from Old North French gartier \"band just above or below the knee\" (Old French jartier, 14c., Modern French jarretière), from garet/jaret \"bend of the knee,\" perhaps from Gaulish (compare Welsh garr \"leg\"). Garter in reference to the highest order of knighthood (mid-14c.) is from the Order of the Garter, the earliest records of which are entirely lost, but which according to Froissart was established c. 1344 by Edward III, though the usual story of how it came about is late (1614) and perhaps apocryphal. Garter-snake (1775, U.S.) so called from resemblance to a ribbon. Garter belt attested by 1913.",
+    "years": [
+      1344,
+      1614,
+      1775,
+      1913
+    ],
+    "clues": [
+      "Tie or fastening to keep a stocking in place on the leg.",
+      "First attested: early 14c..",
+      "Band just above or below the knee.",
+      "Rooted in Old North French.",
+      "6 letters, noun"
+    ],
+    "roots": {
+      "attested": "early 14c.",
+      "lineage": [
+        {
+          "lang": "Gaulish",
+          "uncertain": true
+        },
+        {
+          "lang": "Old North French",
+          "form": "garet",
+          "gloss": "bend of the knee"
+        },
+        {
+          "lang": "Old North French",
+          "form": "gartier",
+          "gloss": "band just above or below the knee"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "gasket",
+    "pos": "n",
+    "crossreferences": [
+      "garcon"
+    ],
+    "etymology": "1620s, caskette, originally nautical, \"small rope or plaited coil\" used to secure a furled sail, of uncertain origin, perhaps from French garcette \"a gasket,\" literally \"little girl, maidservant,\" diminutive of Old French garce \"young woman, young girl; whore, harlot, concubine\" (13c.), fem. of garçon (see garcon). Century Dictionary notes Spanish garcette \"a gasket,\" also \"hair which falls in locks.\" Machinery sense of \"packing (originally of braided hemp) to seal metal joints and pistons\" first recorded 1829.",
+    "years": [
+      1620,
+      1829
+    ],
+    "clues": [
+      "Small rope or plaited coil.",
+      "First attested: 1620s.",
+      "Little girl, maidservant.",
+      "Etymologically related to: garcon.",
+      "6 letters, noun"
+    ],
+    "roots": {
+      "attested": "1620s",
+      "lineage": [
+        {
+          "lang": "Old French",
+          "form": "garce",
+          "gloss": "young woman, young girl",
+          "uncertain": true
+        },
+        {
+          "lang": "French",
+          "form": "garcette",
+          "gloss": "little girl, maidservant",
+          "uncertain": true
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "ghostly",
+    "pos": "adj",
+    "crossreferences": [
+      "ghost",
+      "-ly"
+    ],
+    "etymology": "Old English gastlic \"spiritual, holy, not of the flesh; clerical;\" also \"supernatural, spectral, pertaining to or characteristic of a ghost;\" see ghost (n.) + -ly (1). Related: Ghostliness.",
+    "years": [],
+    "clues": [
+      "Spiritual, holy, not of the flesh; clerical.",
+      "No firm early date survives in the record.",
+      "Derived from an ancient Old English word for spirit or soul combined with an adjectival suffix.",
+      "Built from a shorter, related English word.",
+      "7 letters, adjective"
+    ],
+    "roots": {
+      "attested": null,
+      "lineage": [
+        {
+          "lang": "Old English",
+          "form": "gastlic",
+          "gloss": "spiritual, holy, not of the flesh; clerical"
+        }
+      ],
+      "parts": [
+        {
+          "form": "ghost"
+        },
+        {
+          "form": "-ly"
+        }
+      ]
+    }
+  },
+  {
+    "word": "glance",
+    "pos": "v",
+    "crossreferences": [
+      "glacial",
+      "glint"
+    ],
+    "etymology": "mid-15c., of weapons, \"strike obliquely without giving full impact,\" a nasalized form of glacen \"to graze, strike a glancing blow\" (c. 1300), from Old French glacier \"to slip, make slippery\" (compare Old French glaciere \"part of a knight's armor meant to deflect blows\"), from glace \"ice\" (see glacial). Sense of \"look quickly\" (first recorded 1580s) probably was by influence of Middle English glenten \"look askance\" (see glint (v.)), which also could account for the -n-. Related: Glanced; glancing.",
+    "years": [
+      1300,
+      1580
+    ],
+    "clues": [
+      "Strike obliquely without giving full impact.",
+      "First attested: mid-15c..",
+      "To graze, strike a sideways blow.",
+      "Etymologically related to: glacial, glint.",
+      "6 letters, verb"
+    ],
+    "roots": {
+      "attested": "mid-15c.",
+      "lineage": [
+        {
+          "lang": "Old French",
+          "form": "glace",
+          "gloss": "ice"
+        },
+        {
+          "lang": "Old French",
+          "form": "glacier",
+          "gloss": "to slip, make slippery"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "glucose",
+    "pos": "n",
+    "crossreferences": [
+      "gluco-"
+    ],
+    "etymology": "name of a group of sugars (in commercial use, \"sugar-syrup from starch\"), 1840, from French glucose (1838), said to have been coined by French professor Eugène Melchior Péligot (1811-1890) from Greek gleukos \"must, sweet wine,\" related to glykys \"sweet\" (see gluco-). It first was obtained from grape sugar. Related: Glucosic.",
+    "years": [
+      1811,
+      1838,
+      1840,
+      1890
+    ],
+    "clues": [
+      "Name of a group of sugars.",
+      "First attested: 1840.",
+      "Must, sweet wine.",
+      "Rooted in French.",
+      "7 letters, noun"
+    ],
+    "roots": {
+      "attested": "1840",
+      "lineage": [
+        {
+          "lang": "Greek",
+          "form": "gleukos",
+          "gloss": "must, sweet wine"
+        },
+        {
+          "lang": "French",
+          "form": "glucose"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "gnarl",
+    "pos": "v",
+    "crossreferences": [
+      "gnarled"
+    ],
+    "etymology": "\"contort, twist, make knotty,\" 1814, a back-formation from gnarled (q.v.). As a noun from 1824, \"a knotty growth on wood.\" Earlier an identical verb was used imitatively in a sense of \"to snarl\" like a dog (1590s); Farmer & Henley lists gnarler as thieves' slang for \"a watch-dog.\"",
+    "years": [
+      1590,
+      1814,
+      1824
+    ],
+    "clues": [
+      "Contort, twist, make knotty.",
+      "First attested: 1814.",
+      "A knotty growth on wood.",
+      "A back-formation from a longer English word.",
+      "5 letters, verb"
+    ],
+    "roots": {
+      "attested": "1814",
+      "lineage": [],
+      "parts": []
+    }
+  },
+  {
+    "word": "goblin",
+    "pos": "n",
+    "crossreferences": [
+      "cobalt"
+    ],
+    "etymology": "early 14c., \"a devil, incubus, mischievous and ugly fairy,\" from Norman French gobelin (12c., as Medieval Latin Gobelinus, the name of a spirit haunting the region of Evreux, in chronicle of Ordericus Vitalis), of uncertain origin; said to be unrelated to German kobold (see cobalt), or from Medieval Latin cabalus, from Greek kobalos \"impudent rogue, knave,\" kobaloi \"wicked spirits invoked by rogues,\" of unknown origin. Another suggestion is that it is a diminutive of the proper name Gobel.",
+    "years": [],
+    "clues": [
+      "A devil, incubus, mischievous and ugly fairy.",
+      "First attested: early 14c..",
+      "Impudent rogue, knave.",
+      "Rooted in Norman French.",
+      "6 letters, noun"
+    ],
+    "roots": {
+      "attested": "early 14c.",
+      "lineage": [
+        {
+          "lang": "Norman French",
+          "form": "gobelin"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "goose",
+    "pos": "n",
+    "crossreferences": [
+      "tooth"
+    ],
+    "etymology": "\"a large waterfowl proverbially noted, I know not why, for foolishness\" [Johnson], Old English gos \"a goose,\" from Proto-Germanic *gans- \"goose\" (source also of Old Frisian gos, Old Norse gas, Old High German gans, German Gans \"goose\"), from PIE *ghans- (source also of Sanskrit hamsah (masc.), hansi (fem.), \"goose, swan;\" Greek khen; Latin anser; Polish gęś \"goose;\" Lithuanian zasis \"goose;\" Old Irish geiss \"swan\"), probably imitative of its honking.\n\nSpanish ganso \"goose\" is from a Germanic source. Loss of \"n\" sound before \"s\" is normal in English (compare tooth). Plural form geese is an example of i-mutation. Meaning \"simpleton, silly or foolish person\" is from early 15c. To cook one's goose first attested 1845, of unknown origin; attempts to connect it to Swedish history and Greek fables are unconvincing. Goose-egg \"zero\" first attested 1866 in baseball slang, from being large and round. The goose that lays golden eggs (15c.) is from Aesop.",
+    "years": [
+      1845,
+      1866
+    ],
+    "clues": [
+      "A large waterfowl proverbially noted, I know not why, for foolishness.",
+      "No firm early date survives in the record.",
+      "Simpleton, silly or foolish person.",
+      "Rooted in Old English.",
+      "5 letters, noun"
+    ],
+    "roots": {
+      "attested": null,
+      "lineage": [
+        {
+          "lang": "PIE",
+          "form": "*ghans-"
+        },
+        {
+          "lang": "Proto-Germanic",
+          "form": "*gans-"
+        },
+        {
+          "lang": "Old English",
+          "form": "gos"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "grenadier",
+    "pos": "n",
+    "crossreferences": [
+      "grenade"
+    ],
+    "etymology": "1670s, originally a word for soldiers \"who were dexterous in flinging hand-granados\" [Evelyn], from French grenadier (15c.), from Middle French grenade \"grenade\" (see grenade); later \"the tallest and finest men in the regiment\" [OED]. Grenades went out of use in 18c., but the name was retained by certain companies of regiments.",
+    "years": [
+      1670
+    ],
+    "clues": [
+      "Originally, a soldier dexterous in flinging hand-granados.",
+      "First attested: 1670s.",
+      "The tallest and finest men in the regiment.",
+      "Rooted in French.",
+      "9 letters, noun"
+    ],
+    "roots": {
+      "attested": "1670s",
+      "lineage": [
+        {
+          "lang": "Middle French",
+          "form": "grenade",
+          "gloss": "grenade"
+        },
+        {
+          "lang": "French",
+          "form": "grenadier"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "grill",
+    "pos": "n",
+    "crossreferences": [
+      "grille"
+    ],
+    "etymology": "\"gridiron, grated utensil for broiling over a fire,\" 1680s, from French gril, from Old French greil, alteration of graille \"grill, grating, railings, fencing\" (13c.), from Latin craticula \"gridiron, small griddle,\" diminutive of cratis \"wickerwork,\" perhaps from a suffixed form of PIE *kert- \"to turn, entwine.\" Grill-room \"lunchroom where steaks, chops, etc. are grilled to order\" (1869) came to be used for \"informal restaurant,\" hence grill as a short form in this sense (by 1910). In many instances, Modern English grill is a shortened form of grille, such as \"chrome front of an automobile.\"",
+    "years": [
+      1680,
+      1869,
+      1910
+    ],
+    "clues": [
+      "Gridiron, grated utensil for broiling over a fire.",
+      "First attested: 1680s.",
+      "Gridiron, small griddle.",
+      "Rooted in French.",
+      "5 letters, noun"
+    ],
+    "roots": {
+      "attested": "1680s",
+      "lineage": [
+        {
+          "lang": "PIE",
+          "form": "*kert-",
+          "gloss": "to turn, entwine",
+          "uncertain": true
+        },
+        {
+          "lang": "Latin",
+          "form": "cratis",
+          "gloss": "wickerwork"
+        },
+        {
+          "lang": "Latin",
+          "form": "craticula",
+          "gloss": "gridiron, small griddle"
+        },
+        {
+          "lang": "Old French",
+          "form": "graille",
+          "gloss": "grating, railings, fencing"
+        },
+        {
+          "lang": "Old French",
+          "form": "greil"
+        },
+        {
+          "lang": "French",
+          "form": "gril"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "gutter",
+    "pos": "n",
+    "crossreferences": [
+      "gout"
+    ],
+    "etymology": "late 13c., \"watercourse, water drainage channel along the side of a street,\" from Anglo-French gotere, Old French guitere, goutiere \"gutter, spout\" of water (12c., Modern French gouttière), from goute \"a drop,\" from Latin gutta \"a drop\" (see gout). Meaning \"furrow made by running water\" is from 1580s. Meaning \"trough under the eaves of a roof to carry off rainwater\" is from mid-14c. Figurative sense of \"low, profane\" is from 1818. In printers' slang, from 1841.",
+    "years": [
+      1580,
+      1818,
+      1841
+    ],
+    "clues": [
+      "Watercourse, water drainage channel along the side of a street.",
+      "First attested: late 13c..",
+      "A drop.",
+      "Etymologically related to: gout.",
+      "6 letters, noun"
+    ],
+    "roots": {
+      "attested": "late 13c.",
+      "lineage": [
+        {
+          "lang": "Latin",
+          "form": "gutta",
+          "gloss": "a drop"
+        },
+        {
+          "lang": "Old French",
+          "form": "goute",
+          "gloss": "a drop"
+        },
+        {
+          "lang": "Old French",
+          "form": "goutiere",
+          "gloss": "spout"
+        },
+        {
+          "lang": "Anglo-French",
+          "form": "gotere"
+        }
+      ],
+      "parts": []
+    }
+  },
+  {
+    "word": "haggle",
+    "pos": "v",
+    "crossreferences": [
+      "hack"
+    ],
+    "etymology": "1570s, \"to cut unevenly, mangle in cutting\" (implied in haggler \"clumsy workman\"), frequentative of haggen \"to chop\" (see hack (v.1)). Sense of \"argue about price\" first recorded c. 1600, probably from notion of chopping away. Related: Haggled; haggling.",
+    "years": [
+      1570,
+      1600
+    ],
+    "clues": [
+      "To cut unevenly, mangle in cutting.",
+      "First attested: 1570s.",
+      "Its agent noun once meant 'clumsy workman.'",
+      "Etymologically related to: hack.",
+      "6 letters, verb"
+    ],
+    "roots": {
+      "attested": "1570s",
+      "lineage": [],
+      "parts": []
+    }
+  }
+]
