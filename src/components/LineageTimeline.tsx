@@ -9,11 +9,16 @@ interface TimelineNodeProps {
   meta?: string;
   uncertain?: boolean;
   current?: boolean;
+  /** Position in the timeline, for the staggered reveal. */
+  step: number;
 }
 
-function TimelineNode({ lang, form, gloss, meta, uncertain, current }: TimelineNodeProps) {
+function TimelineNode({ lang, form, gloss, meta, uncertain, current, step }: TimelineNodeProps) {
   return (
-    <li className="relative flex flex-col gap-0.5 pl-6">
+    <li
+      className="relative flex flex-col gap-0.5 pl-6 motion-safe:animate-rise-in"
+      style={{ animationDelay: `${300 + step * 110}ms` }}
+    >
       <span
         aria-hidden="true"
         className={`absolute top-[2px] left-0 size-2.5 rounded-full ${
@@ -39,9 +44,10 @@ export function LineageTimeline({ entry }: { entry: WordEntry }) {
   return (
     <ol className="relative flex flex-col gap-4 before:absolute before:top-2 before:bottom-2 before:left-[4px] before:w-[1.5px] before:bg-lock">
       {lineage.map((stage, i) => (
-        <TimelineNode key={i} lang={stage.lang} form={stage.form} gloss={stage.gloss} uncertain={stage.uncertain} />
+        <TimelineNode key={i} step={i} lang={stage.lang} form={stage.form} gloss={stage.gloss} uncertain={stage.uncertain} />
       ))}
       <TimelineNode
+        step={lineage.length}
         lang="English"
         form={entry.word}
         gloss={entry.clues[0]}

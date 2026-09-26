@@ -9,11 +9,10 @@ interface GuessCounterProps {
 }
 
 export function GuessCounter({ playing, guessNumber, guessesUsed, total }: GuessCounterProps) {
+  const label = playing ? `Guess ${guessNumber} of ${total}` : `${guessesUsed} of ${total} guesses used`;
   return (
     <div className="flex items-center justify-between">
-      <SectionLabel variant="counter">
-        {playing ? `Guess ${guessNumber} of ${total}` : `${guessesUsed} of ${total} guesses used`}
-      </SectionLabel>
+      <SectionLabel variant="counter">{label}</SectionLabel>
       <ProgressPips filled={guessesUsed} total={total} />
     </div>
   );

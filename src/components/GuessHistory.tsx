@@ -12,8 +12,9 @@ export function GuessHistory({ guesses }: { guesses: string[] }) {
       </SectionLabel>
       {guesses.length > 0 ? (
         <ul className="flex flex-wrap gap-2">
-          {guesses.map((word) => (
-            <GuessChip key={word} word={word} />
+          {/* Skips repeat, so keys can't be the word itself; the list only ever grows. */}
+          {guesses.map((word, i) => (
+            <GuessChip key={i} word={word} />
           ))}
         </ul>
       ) : (

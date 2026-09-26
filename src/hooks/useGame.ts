@@ -3,6 +3,7 @@ import type { GameMode, GameStatus, GuessResult } from '../types';
 import { getClues } from '../lib/clues';
 import {
   MAX_GUESSES,
+  SKIPPED,
   WORDS,
   getDailyIndex,
   getRandomIndex,
@@ -17,6 +18,7 @@ interface GameState {
   /** The calendar day this daily game belongs to; used as its storage key. */
   dayKey: string;
   wordIndex: number;
+  /** Wrong guesses in order; a skip is stored as `SKIPPED`. */
   wrongGuesses: string[];
   status: GameStatus;
 }
@@ -35,11 +37,15 @@ function createDailyState(): GameState {
 
 export function useGame() {
   const [state, setState] = useState<GameState>(createDailyState);
+  // True only for a win that happened in this session, so reloading a solved daily doesn't re-celebrate.
+  const [justWon, setJustWon] = useState(false);
 
   const entry = WORDS[state.wordIndex];
   const clues = getClues(entry);
   const wrongCount = state.wrongGuesses.length;
   const playing = state.status === 'playing';
+  // One clue to start, plus one per miss.
+  const unlockedCount = Math.min(wrongCount + 1, clues.length);
 
   function update(next: GameState) {
     setState(next);
@@ -55,19 +61,30 @@ export function useGame() {
 
     if (isCorrect(guess, entry)) {
       update({ ...state, status: 'won' });
+      setJustWon(true);
       return 'correct';
     }
 
+    addMiss(guess);
+    return 'wrong';
+  }
+
+  /** Uses up a guess without guessing, revealing the next clue. */
+  function skipGuess() {
+    if (playing) addMiss(SKIPPED);
+  }
+
+  function addMiss(guess: string) {
     const wrongGuesses = [...state.wrongGuesses, guess];
     update({
       ...state,
       wrongGuesses,
       status: wrongGuesses.length >= MAX_GUESSES ? 'lost' : 'playing',
     });
-    return 'wrong';
   }
 
   function startPractice() {
+    setJustWon(false);
     setState({
       mode: 'practice',
       dayKey: todayKey(),
@@ -78,19 +95,23 @@ export function useGame() {
   }
 
   function backToDaily() {
+    setJustWon(false);
     setState(createDailyState());
   }
 
   return {
     mode: state.mode,
     status: state.status,
+    justWon,
     entry,
     clues,
     wrongGuesses: state.wrongGuesses,
     guessesUsed: wrongCount + (state.status === 'won' ? 1 : 0),
     guessNumber: Math.min(wrongCount + 1, MAX_GUESSES),
-    revealedCount: playing ? Math.min(wrongCount + 1, clues.length) : clues.length,
+    unlockedCount,
+    revealedCount: playing ? unlockedCount : clues.length,
     submitGuess,
+    skipGuess,
     startPractice,
     backToDaily,
   };

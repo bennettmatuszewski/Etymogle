@@ -19,7 +19,11 @@ export function JourneyTrail({ stops }: { stops: JourneyStop[] }) {
               ? 'border border-dashed border-lock text-muted'
               : 'bg-chip text-ink';
           return (
-            <li key={`${stop.lang}-${i}`} className="flex items-center gap-1.5">
+            <li
+              key={`${stop.lang}-${i}`}
+              className="flex items-center gap-1.5 motion-safe:animate-chip-in"
+              style={{ animationDelay: `${250 + i * 110}ms` }}
+            >
               {i > 0 && <ChevronIcon className="size-3 shrink-0 text-faint" />}
               <span className={`${CHIP} ${tone}`}>
                 <LanguageName lang={stop.lang} />

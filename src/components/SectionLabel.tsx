@@ -1,7 +1,6 @@
 import type { ReactNode } from 'react';
 
 const VARIANTS = {
-  eyebrow: 'text-[12px] tracking-[0.14em]',
   label: 'text-[12px] tracking-[0.08em]',
   counter: 'text-[13px] tracking-[0.08em]',
 };
@@ -14,7 +13,7 @@ interface SectionLabelProps {
   className?: string;
 }
 
-/** Small uppercase, letter-spaced label used for eyebrows and section headings. */
+/** Small uppercase, letter-spaced label used for section headings. */
 export function SectionLabel({
   children,
   variant = 'label',

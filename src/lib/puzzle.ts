@@ -3,6 +3,9 @@ import type { WordEntry } from '../types';
 
 export const MAX_GUESSES = 5;
 
+/** Stored in place of a guess when the player skips; real guesses are never empty. */
+export const SKIPPED = '';
+
 // Skip entries whose clues haven't been generated yet (e.g. a trailing entry with no `clues`).
 export const WORDS = (words as Partial<WordEntry>[]).filter(
   (entry): entry is WordEntry => Array.isArray(entry.clues) && entry.clues.length >= MAX_GUESSES,

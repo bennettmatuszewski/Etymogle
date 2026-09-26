@@ -2,12 +2,18 @@ import { useId } from 'react';
 import type { Clue } from '../types';
 import { ClueRow } from './ClueRow';
 
+// A clue unlocks just after the guess chip lands; the rest cascade when the game ends.
+const REVEAL_DELAY_MS = 120;
+const CASCADE_STEP_MS = 110;
+
 interface ClueListProps {
   clues: Clue[];
   revealedCount: number;
+  /** Clues earned by guessing; any beyond this were revealed by the game ending. */
+  unlockedCount: number;
 }
 
-export function ClueList({ clues, revealedCount }: ClueListProps) {
+export function ClueList({ clues, revealedCount, unlockedCount }: ClueListProps) {
   const headingId = useId();
 
   return (
@@ -22,7 +28,13 @@ export function ClueList({ clues, revealedCount }: ClueListProps) {
       </div>
       <ol aria-live="polite" className="flex flex-col gap-0.5">
         {clues.map((clue, i) => (
-          <ClueRow key={i} number={i + 1} clue={clue} revealed={i < revealedCount} />
+          <ClueRow
+            key={i}
+            number={i + 1}
+            clue={clue}
+            revealed={i < revealedCount}
+            delay={REVEAL_DELAY_MS + Math.max(0, i - unlockedCount + 1) * CASCADE_STEP_MS}
+          />
         ))}
       </ol>
     </section>

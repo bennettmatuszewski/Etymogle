@@ -14,7 +14,11 @@ export function LetterHint({ word, pos }: LetterHintProps) {
     <div className="flex flex-col items-center gap-2">
       <div aria-hidden="true" className="flex flex-wrap justify-center gap-1.5">
         {Array.from({ length: count }, (_, i) => (
-          <span key={i} className="h-[3px] w-4 rounded-xs bg-underline" />
+          <span
+            key={i}
+            className="h-[3px] w-4 origin-left rounded-xs bg-underline motion-safe:animate-dash-in"
+            style={{ animationDelay: `${200 + i * 40}ms` }}
+          />
         ))}
       </div>
       <p className="text-[12px] text-muted">

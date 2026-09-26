@@ -27,17 +27,23 @@ export function ResultPanel({ status, entry, guessesUsed, mode, onPractice, onBa
   }, []);
 
   return (
-    <div aria-live="polite" className="flex flex-col gap-4">
+    <div aria-live="polite" className="flex flex-col gap-4 motion-safe:animate-rise-in">
       <SectionLabel as="p">
         {status === 'won'
           ? `Solved in ${guessesUsed} ${guessesUsed === 1 ? 'guess' : 'guesses'}`
           : 'The word was'}
       </SectionLabel>
       <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1">
-        <p className="font-serif text-[40px] font-semibold italic leading-none text-ink">{entry.word}</p>
+        <p
+          className={`font-serif text-[40px] font-semibold italic leading-none text-ink ${
+            status === 'won' ? 'origin-bottom-left motion-safe:animate-word-pop' : ''
+          }`}
+        >
+          {entry.word}
+        </p>
         {pos && <span className="text-[14px] italic text-muted">{pos}</span>}
       </div>
-      <div aria-hidden="true" className="h-[3px] w-10 rounded-xs bg-accent" />
+      <div aria-hidden="true" className="h-[3px] w-10 origin-left rounded-xs bg-accent motion-safe:animate-draw-line" />
       <SectionLabel as="h3">Word history</SectionLabel>
       <LineageTimeline entry={entry} />
       {parts.length >= 2 && (

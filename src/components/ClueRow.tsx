@@ -7,14 +7,19 @@ interface ClueRowProps {
   number: number;
   clue: Clue;
   revealed: boolean;
+  /** Delay before the unlock animation, in ms. */
+  delay?: number;
 }
 
-export function ClueRow({ number, clue, revealed }: ClueRowProps) {
+export function ClueRow({ number, clue, revealed, delay = 0 }: ClueRowProps) {
   return (
     <li className="flex items-start gap-3.5 py-[7px]">
-      <ClueBadge number={number} revealed={revealed} />
+      <ClueBadge number={number} revealed={revealed} delay={delay} />
       {revealed ? (
-        <div className="min-w-0 pt-0.5 text-[15px] leading-normal text-ink">
+        <div
+          className="min-w-0 pt-0.5 text-[15px] leading-normal text-ink motion-safe:animate-clue-in"
+          style={{ animationDelay: `${delay}ms` }}
+        >
           <ClueContent clue={clue} />
         </div>
       ) : (

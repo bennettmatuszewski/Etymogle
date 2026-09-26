@@ -1,4 +1,5 @@
 import { ClueList } from './components/ClueList';
+import { Confetti } from './components/Confetti';
 import { Divider } from './components/Divider';
 import { GameCard } from './components/GameCard';
 import { GuessCounter } from './components/GuessCounter';
@@ -17,7 +18,7 @@ function App() {
 
   return (
     <div className="flex min-h-screen flex-col items-center justify-center gap-[26px] px-4 pt-12 pb-10 sm:px-16">
-      <Masthead eyebrow={game.mode === 'daily' ? 'Today’s word' : 'Practice word'} />
+      <Masthead />
 
       <GameCard>
         <GuessCounter
@@ -30,7 +31,12 @@ function App() {
         {game.status === 'playing' ? (
           <>
             <LetterHint word={game.entry.word} pos={game.entry.pos} />
-            <GuessForm key={roundKey} onGuess={game.submitGuess} />
+            <GuessForm
+              key={roundKey}
+              onGuess={game.submitGuess}
+              onSkip={game.skipGuess}
+              isLastGuess={game.guessNumber === MAX_GUESSES}
+            />
           </>
         ) : (
           <ResultPanel
@@ -46,8 +52,10 @@ function App() {
 
         <GuessHistory guesses={game.wrongGuesses} />
         <Divider />
-        <ClueList clues={game.clues} revealedCount={game.revealedCount} />
+        <ClueList clues={game.clues} revealedCount={game.revealedCount} unlockedCount={game.unlockedCount} />
       </GameCard>
+
+      {game.status === 'won' && game.justWon && <Confetti key={roundKey} />}
     </div>
   );
 }
