@@ -29,8 +29,15 @@ export function todayKey(date = new Date()): string {
   return `${y}-${m}-${d}`;
 }
 
+/** Days pinned to a specific word (local date → word); every other day follows the rotation. */
+const DAILY_OVERRIDES: Record<string, string> = {
+  '2026-09-27': 'equestrian',
+};
+
 /** Same word for everyone on the same local calendar day. */
 export function getDailyIndex(date = new Date()): number {
+  const pinned = WORDS.findIndex((e) => e.word === DAILY_OVERRIDES[todayKey(date)]);
+  if (pinned >= 0) return pinned;
   const days = Math.floor(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()) / DAY_MS);
   return days % WORDS.length;
 }

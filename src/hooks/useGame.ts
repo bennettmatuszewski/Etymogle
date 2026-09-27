@@ -15,7 +15,7 @@ import { loadDaily, saveDaily } from '../lib/storage';
 
 interface GameState {
   mode: GameMode;
-  /** The calendar day this daily game belongs to; used as its storage key. */
+  /** The calendar day this daily game belongs to; with the word, its storage key. */
   dayKey: string;
   wordIndex: number;
   /** Wrong guesses in order; a skip is stored as `SKIPPED`. */
@@ -25,11 +25,12 @@ interface GameState {
 
 function createDailyState(): GameState {
   const dayKey = todayKey();
-  const saved = loadDaily(dayKey);
+  const wordIndex = getDailyIndex();
+  const saved = loadDaily(dayKey, WORDS[wordIndex].word);
   return {
     mode: 'daily',
     dayKey,
-    wordIndex: getDailyIndex(),
+    wordIndex,
     wrongGuesses: saved?.wrongGuesses ?? [],
     status: saved?.status ?? 'playing',
   };
@@ -50,7 +51,7 @@ export function useGame() {
   function update(next: GameState) {
     setState(next);
     if (next.mode === 'daily') {
-      saveDaily(next.dayKey, { wrongGuesses: next.wrongGuesses, status: next.status });
+      saveDaily(next.dayKey, WORDS[next.wordIndex].word, { wrongGuesses: next.wrongGuesses, status: next.status });
     }
   }
 

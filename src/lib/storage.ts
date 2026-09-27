@@ -8,10 +8,13 @@ export interface SavedDaily {
 const PREFIX = 'etymogle:daily:';
 const STATUSES: GameStatus[] = ['playing', 'won', 'lost'];
 
+// Keyed by day and word, so a day that changes word (an override) never inherits another word's progress.
+const keyFor = (dayKey: string, word: string) => `${PREFIX}${dayKey}:${word}`;
+
 // Storage can be unavailable (private windows, blocked site data), so every access is guarded.
-export function loadDaily(dayKey: string): SavedDaily | null {
+export function loadDaily(dayKey: string, word: string): SavedDaily | null {
   try {
-    const raw = localStorage.getItem(PREFIX + dayKey);
+    const raw = localStorage.getItem(keyFor(dayKey, word));
     if (!raw) return null;
     const data = JSON.parse(raw);
     if (!Array.isArray(data?.wrongGuesses) || !STATUSES.includes(data?.status)) return null;
@@ -21,9 +24,9 @@ export function loadDaily(dayKey: string): SavedDaily | null {
   }
 }
 
-export function saveDaily(dayKey: string, state: SavedDaily): void {
+export function saveDaily(dayKey: string, word: string, state: SavedDaily): void {
   try {
-    localStorage.setItem(PREFIX + dayKey, JSON.stringify(state));
+    localStorage.setItem(keyFor(dayKey, word), JSON.stringify(state));
   } catch {
     // Progress just won't survive a refresh.
   }
